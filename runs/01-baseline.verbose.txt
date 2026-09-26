@@ -1,0 +1,177 @@
+python -m novelty.cli golden -v   (2026-09-26 ~13:00 IST, gemini-3.6-flash, all-MiniLM-L6-v2)
+
+id   category               final  gate   nov   sub  band
+g01  duplicate              0.000  0.00  0.00  0.00  {'final_max': 0.0, 'duplicate': True}
+      final=0.000  (gate 0.00 x novelty 0.00 x substance 0.00)
+      duplicate=True of r001 (jaccard 1.00)
+      relevance=0.000  recommend=yes  extractor=gemini
+g02  duplicate              0.000  0.00  0.00  0.00  {'final_max': 0.0, 'duplicate': True}
+      final=0.000  (gate 0.00 x novelty 0.00 x substance 0.00)
+      duplicate=True of r001 (jaccard 0.91)
+      relevance=0.000  recommend=yes  extractor=gemini
+g03  rehash                 0.400  1.00  0.40  1.00  {'final_max': 0.25}  <-- OUT OF BAND
+      final=0.400  (gate 1.00 x novelty 0.40 x substance 1.00)
+      duplicate=False
+      relevance=0.375  recommend=yes  extractor=gemini
+        - known      rel=0.62 via cosine_high   'Boho is super easy to use.'  ~ [r050] 'Boho is easy to use' (0.98)
+        - new        rel=0.27 via judge         'Clients are happy with the product.'  ~ [r012] 'Clients like the portal' (0.57)
+        - irrelevant rel=0.15 via relevance     'The user interface is clean and simple.'  ~ [r001] 'The interface is clean and easy to learn' (0.77)
+        - new        rel=0.41 via judge         'Nobody on the team needed training to use Boho.'  ~ [r040] 'Boho works well for small teams' (0.61)
+        - known      rel=0.42 via cosine_high   'Clients like being able to log in to the portal and see progress on their projects.'  ~ [r012] 'Clients like the portal' (0.81)
+g04  rehash                 0.800  1.00  0.80  1.00  {'final_max': 0.25}  <-- OUT OF BAND
+      final=0.800  (gate 1.00 x novelty 0.80 x substance 1.00)
+      duplicate=False
+      relevance=0.664  recommend=yes  extractor=gemini
+        - new        rel=0.71 via judge         'Boho costs twelve dollars per user.'  ~ [r050] 'Boho is inexpensive' (0.75)
+        - known      rel=0.63 via cosine_high   'Boho is affordable for a small shop.'  ~ [r050] 'Boho is inexpensive' (0.89)
+        - new        rel=0.69 via judge         'Boho allows tracking hours directly on tasks.'  ~ [r015] 'Boho combines boards, timelines, portal and time tracking in one place' (0.68)
+        - new        rel=0.68 via judge         'Tracking hours directly on tasks in Boho is convenient.'  ~ [r015] 'Boho combines boards, timelines, portal and time tracking in one place' (0.65)
+        - new        rel=0.60 via judge         "The reviewer's team actually tracks their hours now using Boho."  ~ [r002] 'Built-in time tracking makes people log hours consistently' (0.57)
+g05  rehash                 0.000  0.00  0.00  0.00  {'final_max': 0.25}
+      final=0.000  (gate 0.00 x novelty 0.00 x substance 0.00)
+      duplicate=False
+      relevance=0.103  recommend=mixed  extractor=gemini
+        - irrelevant rel=0.06 via relevance     'The mobile app crashes constantly.'  ~ [r003] 'The mobile app is slow and crashes on large boards' (0.77)
+        - irrelevant rel=0.11 via relevance     'The mobile app is missing most features.'  ~ [r013] 'The mobile app lacks the Gantt view' (0.65)
+        - irrelevant rel=0.10 via relevance     'Support took days to reply.'  ~ [r017] 'Support takes a long time to respond' (0.80)
+        - irrelevant rel=0.14 via relevance     'Support is only available over email.'  ~ [r034] 'Support is email-only' (0.88)
+g06  rehash                 0.000  0.12  0.00  0.00  {'final_max': 0.25}
+      final=0.000  (gate 0.12 x novelty 0.00 x substance 0.00)
+      duplicate=False
+      relevance=0.174  recommend=yes  extractor=gemini
+        - irrelevant rel=0.18 via relevance     'All task updates show up in Slack right away.'  ~ [r021] 'Slack updates arrive instantly' (0.74)
+        - irrelevant rel=0.17 via relevance     'Users can answer comments from the Slack thread.'  ~ [r004] 'You can reply to task threads from Slack' (0.76)
+g07  listing_restatement    0.688  1.00  0.69  1.00  {'final_max': 0.25}  <-- OUT OF BAND
+      final=0.688  (gate 1.00 x novelty 0.69 x substance 1.00)
+      duplicate=False
+      relevance=0.654  recommend=yes  extractor=gemini
+        - known      rel=0.78 via cosine_high   'Boho is a project management tool for small agencies.'  ~ [listing] 'Boho is project management built for small agencies.' (0.97)
+        - new        rel=0.60 via judge         'Boho features Kanban boards.'  ~ [listing] 'Boho is project management built for small agencies.' (0.57)
+        - new        rel=0.60 via judge         'Boho features Gantt timelines.'  ~ [r031] 'The Gantt timeline is simpler than MS Project' (0.65)
+        - new        rel=0.63 via judge         'Boho features branded client portals.'  ~ [r048] 'Boho is designed around client-facing work' (0.73)
+        - known      rel=0.63 via judge         'Boho includes built-in time tracking.'  ~ [r015] 'Boho combines boards, timelines, portal and time tracking in one place' (0.76)
+        - new        rel=0.71 via judge         'Boho allows users to assign tasks.'  ~ [r048] 'Boho is designed around client-facing work' (0.74)
+        - new        rel=0.70 via judge         'Boho allows users to set due dates and milestones.'  ~ [r015] 'Boho combines boards, timelines, portal and time tracking in one place' (0.60)
+        - new        rel=0.63 via judge         'Boho allows users to attach files to tasks.'  ~ [r048] 'Boho is designed around client-facing work' (0.70)
+        - known      rel=0.67 via judge         'Boho provides clients with free logins to approve deliverables.'  ~ [listing] 'Clients get free logins to review and approve deliverables without buying a seat.' (0.69)
+        - known      rel=0.62 via judge         'Timesheets roll up weekly in Boho.'  ~ [r010] 'Weekly timesheets roll up automatically' (0.61)
+        - new        rel=0.65 via judge         'Boho integrates with Slack.'  ~ [r048] 'Boho is designed around client-facing work' (0.67)
+        - new        rel=0.67 via judge         'Boho integrates with Google Workspace.'  ~ [r048] 'Boho is designed around client-facing work' (0.70)
+        - new        rel=0.66 via judge         'Boho integrates with Microsoft Teams.'  ~ [r040] 'Boho works well for small teams' (0.69)
+        - known      rel=0.54 via judge         'Boho has iOS and Android apps.'  ~ [listing] 'Integrates with Slack, Google Workspace, and Microsoft Teams, with apps for web, iOS, and Android.' (0.53)
+        - new        rel=0.75 via judge         'Boho costs $12 per user per month.'  ~ [r050] 'Boho is inexpensive' (0.74)
+        - new        rel=0.63 via judge         'Boho offers a 14-day trial.'  ~ [r050] 'Boho is inexpensive' (0.62)
+g08  novel_relevant         0.243  0.36  0.67  1.00  {'final_min': 0.6}  <-- OUT OF BAND
+      final=0.243  (gate 0.36 x novelty 0.67 x substance 1.00)
+      duplicate=False
+      relevance=0.223  recommend=yes  extractor=gemini
+        - new        rel=0.24 via judge         'The workload view shows over-allocation per person.'  ~ [r008] 'There is no per-person utilization report' (0.53)
+        - new        rel=0.23 via cosine_low    'Users can rebalance workload by dragging tasks between people.'  ~ [listing] 'Assign tasks, set due dates and milestones, attach files, and keep comments next to the work.' (0.39)
+        - new        rel=0.35 via cosine_low    'Retainer budgets can be capped per client.'  ~ [r019] 'Pricing is affordable for small agencies' (0.38)
+        - new        rel=0.24 via cosine_low    'An alert triggers at 80% spend of a retainer budget.'  ~ [r019] 'Annual billing discount is small' (0.36)
+        - irrelevant rel=0.15 via relevance     'The audit log only keeps 30 days of history on the Starter tier.'  ~ [r018] 'The client portal shows the timeline read-only' (0.33)
+        - irrelevant rel=0.13 via relevance     'The 30-day audit log limit on the Starter tier caused an issue for the reviewer during a dispute.'  ~ [r002] 'Built-in time tracking makes people log hours consistently' (0.32)
+g09  novel_relevant         0.165  0.33  0.50  1.00  {'final_min': 0.6}  <-- OUT OF BAND
+      final=0.165  (gate 0.33 x novelty 0.50 x substance 1.00)
+      duplicate=False
+      relevance=0.216  recommend=yes  extractor=gemini
+        - new        rel=0.28 via cosine_low    'Okta SSO is available only on the Business plan.'  ~ [r012] 'Clients can approve deliverables from the portal' (0.30)
+        - new        rel=0.35 via cosine_low    'Tracked time exports directly into QuickBooks invoices with the client and project mapped.'  ~ [r025] 'Logged hours make client invoicing easy' (0.47)
+        - irrelevant rel=0.10 via relevance     'Users can select EU data residency at signup.'  ~ [r039] 'Client portal logins are free' (0.31)
+        - irrelevant rel=0.13 via relevance     "The reviewer's German clients required EU data residency."  ~ [listing] 'Clients get free logins to review and approve deliverables without buying a seat.' (0.28)
+g10  novel_relevant         0.000  0.00  0.00  0.00  {'final_min': 0.6}  <-- OUT OF BAND
+      final=0.000  (gate 0.00 x novelty 0.00 x substance 0.00)
+      duplicate=False
+      relevance=0.131  recommend=mixed  extractor=gemini
+        - irrelevant rel=0.15 via relevance     'If a task with dependencies is dragged so it crosses into the next month, the dependent tasks do not move.'  ~ [r018] 'Dragging tasks on the Gantt timeline updates dates' (0.56)
+        - irrelevant rel=0.15 via relevance     'Dragging a task with dependencies so it crosses into the next month creates a silent scheduling conflict.'  ~ [r018] 'Dragging tasks on the Gantt timeline updates dates' (0.54)
+        - irrelevant rel=0.09 via relevance     'Two-factor authentication is mandatory for workspace admins.'  ~ [r040] 'There are only two permission levels: admin and member' (0.41)
+g11  novel_relevant         1.000  1.00  1.00  1.00  {'final_min': 0.6}
+      final=1.000  (gate 1.00 x novelty 1.00 x substance 1.00)
+      duplicate=False
+      relevance=0.512  recommend=yes  extractor=gemini
+        - new        rel=0.48 via judge         'Automations in Boho are more capable than they look.'  ~ [r048] 'Boho is designed around client-facing work' (0.59)
+        - new        rel=0.59 via judge         "In Boho, users can build rules such as 'when a card moves to Review, assign the account manager and post to the client portal'."  ~ [r048] 'Boho is designed around client-facing work' (0.59)
+        - new        rel=0.46 via judge         'Automation rules can chain in Boho.'  ~ [r048] 'Boho is designed around client-facing work' (0.56)
+        - new        rel=0.52 via cosine_low    'There is a per-workspace limit of 50 rules on the Starter plan in Boho.'  ~ [listing] 'Boho is project management built for small agencies.' (0.45)
+g12  mixed                  0.833  1.00  0.83  1.00  {'final_min': 0.2, 'final_max': 0.8}  <-- OUT OF BAND
+      final=0.833  (gate 1.00 x novelty 0.83 x substance 1.00)
+      duplicate=False
+      relevance=0.469  recommend=yes  extractor=gemini
+        - known      rel=0.64 via cosine_high   'Boho is easy to use.'  ~ [r050] 'Boho is easy to use' (0.99)
+        - new        rel=0.48 via judge         'The Boho interface is clean.'  ~ [r050] 'Boho is easy to use' (0.68)
+        - new        rel=0.42 via cosine_low    "The reviewer's team needed no training to use Boho."  ~ [r050] 'Boho is easy to use' (0.49)
+        - new        rel=0.51 via judge         "Boho's timeline feature allows users to save a baseline."  ~ [r015] 'Boho combines boards, timelines, portal and time tracking in one place' (0.63)
+        - new        rel=0.50 via judge         "Boho's timeline feature allows users to compare planned versus actual dates."  ~ [r015] 'Boho combines boards, timelines, portal and time tracking in one place' (0.58)
+        - new        rel=0.26 via cosine_low    "The reviewer's clients constantly ask about planned versus actual dates."  ~ [r031] 'The timeline has a client-safe view' (0.39)
+g13  mixed                  0.000  0.00  0.00  0.00  {'final_min': 0.2, 'final_max': 0.8}  <-- OUT OF BAND
+      final=0.000  (gate 0.00 x novelty 0.00 x substance 0.00)
+      duplicate=False
+      relevance=0.122  recommend=mixed  extractor=gemini
+        - irrelevant rel=0.14 via relevance     'Support is email-only.'  ~ [r034] 'Support is email-only' (0.98)
+        - irrelevant rel=0.14 via relevance     'Support is slow.'  ~ [r017] 'Support takes a long time to respond' (0.76)
+        - irrelevant rel=0.11 via relevance     'The desktop app has an offline mode.'  ~ [r003] 'The desktop interface is simple to navigate' (0.43)
+        - irrelevant rel=0.09 via relevance     'Edits made offline in the desktop app synced cleanly upon reconnecting.'  ~ [r018] 'The client portal shows the timeline read-only' (0.37)
+        - irrelevant rel=0.13 via relevance     'The desktop app provides a conflict prompt when the same card is edited by multiple users while offline.'  ~ [r037] 'The client portal replaces status meetings' (0.30)
+g14  novel_irrelevant       0.000  0.00  0.00  0.00  {'final_max': 0.1}
+      final=0.000  (gate 0.00 x novelty 0.00 x substance 0.00)
+      duplicate=False
+      relevance=0.106  recommend=yes  extractor=gemini
+        - irrelevant rel=0.19 via relevance     'The reviewer considers the product the best espresso machine under $500.'  ~ [r009] 'Pricing is affordable' (0.31)
+        - irrelevant rel=0.01 via relevance     'The pressure profiling produces a thick crema.'  ~ [r027] 'The tool is simple and fast' (0.27)
+        - irrelevant rel=0.11 via relevance     'The steam wand is fast enough for back-to-back lattes.'  ~ [r050] 'Boho is easy to use' (0.28)
+        - irrelevant rel=0.06 via relevance     'Descaling takes ten minutes.'  ~ [r027] 'The tool is simple and fast' (0.36)
+        - irrelevant rel=0.16 via relevance     'The drip tray fills up quickly.'  ~ [r021] 'Slack updates arrive instantly' (0.30)
+g15  novel_irrelevant       0.000  0.00  0.00  0.00  {'final_max': 0.1}
+      final=0.000  (gate 0.00 x novelty 0.00 x substance 0.00)
+      duplicate=False
+      relevance=0.027  recommend=yes  extractor=gemini
+        - irrelevant rel=0.09 via relevance     'The reviewer hiked the Tre Cime loop on Saturday.'  ~ [r009] 'The free trial was enough to evaluate it' (0.23)
+        - irrelevant rel=-0.02 via relevance     'The light on the peaks at sunrise was unreal.'  ~ [r030] 'There is no dark mode' (0.28)
+        - irrelevant rel=-0.03 via relevance     'The rifugio served the best barley soup the reviewer has had.'  ~ [r035] 'The interface is fast and clean' (0.17)
+        - irrelevant rel=0.06 via relevance     'Booking the cable car early avoids the queue.'  ~ [r031] 'You can drag to reschedule on the timeline' (0.31)
+g16  novel_irrelevant       0.000  0.00  0.00  0.00  {'final_max': 0.1}
+      final=0.000  (gate 0.00 x novelty 0.00 x substance 0.00)
+      duplicate=False
+      relevance=0.078  recommend=yes  extractor=gemini
+        - irrelevant rel=0.11 via relevance     'Bulk fermenting sourdough at 26 degrees for five hours worked for the reviewer.'  ~ [r046] 'Hours attach to the right task automatically' (0.24)
+        - irrelevant rel=0.08 via relevance     'Shaping sourdough tight and retarding it overnight in the fridge worked for the reviewer.'  ~ [r050] 'Boho is easy to use' (0.19)
+        - irrelevant rel=0.04 via relevance     'A dutch oven preheated for an hour gives a much better ear than a baking stone when baking sourdough.'  ~ [r038] 'There is no idle detection for the timer' (0.17)
+g17  novel_irrelevant       0.000  0.00  0.00  0.00  {'final_max': 0.1}
+      final=0.000  (gate 0.00 x novelty 0.00 x substance 0.00)
+      duplicate=False
+      relevance=-0.039  recommend=no  extractor=gemini
+        - irrelevant rel=-0.03 via relevance     'The sightlines from the upper tier of the new stadium are terrible.'  ~ [r039] 'Team seats are reasonably priced' (0.34)
+        - irrelevant rel=0.01 via relevance     'The stadium concourse gets gridlocked at half time.'  ~ [r039] 'Team seats are reasonably priced' (0.26)
+        - irrelevant rel=0.00 via relevance     'Stadium parking is a mile away.'  ~ [r039] 'Team seats are reasonably priced' (0.37)
+        - irrelevant rel=-0.14 via relevance     'The old ground had far more atmosphere than the new stadium.'  ~ [r039] 'Team seats are reasonably priced' (0.29)
+g18  padded_irrelevant      0.273  0.82  0.33  1.00  {'final_max': 0.25}  <-- OUT OF BAND
+      final=0.273  (gate 0.82 x novelty 0.33 x substance 1.00)
+      duplicate=False
+      relevance=0.314  recommend=yes  extractor=gemini
+        - known      rel=0.62 via cosine_high   'Boho is super easy to use.'  ~ [r050] 'Boho is easy to use' (0.98)
+        - irrelevant rel=0.19 via relevance     'The UI is clean and simple.'  ~ [r001] 'The interface is clean and easy to learn' (0.69)
+        - new        rel=0.41 via judge         'Nobody on the team needed training to use Boho.'  ~ [r040] 'Boho works well for small teams' (0.61)
+        - new        rel=0.40 via judge         'Clients like being able to log into the portal to see progress on their projects.'  ~ [r012] 'Clients like the portal' (0.78)
+        - irrelevant rel=0.13 via relevance     "A ramen place that opened near the reviewer's office serves a fantastic tonkotsu."  ~ [r050] 'Boho is inexpensive' (0.20)
+        - irrelevant rel=0.13 via relevance     'Lisbon in October is the perfect temperature for a conference.'  ~ [listing] 'Boho is project management built for small agencies.' (0.18)
+g19  padded_irrelevant      0.000  0.00  0.00  0.00  {'final_max': 0.25}
+      final=0.000  (gate 0.00 x novelty 0.00 x substance 0.00)
+      duplicate=False
+      relevance=0.060  recommend=mixed  extractor=gemini
+        - irrelevant rel=0.06 via relevance     'The mobile app crashes constantly.'  ~ [r003] 'The mobile app is slow and crashes on large boards' (0.77)
+        - irrelevant rel=0.11 via relevance     'The mobile app is missing most features.'  ~ [r013] 'The mobile app lacks the Gantt view' (0.65)
+        - irrelevant rel=0.10 via relevance     'Support took days to reply.'  ~ [r017] 'Support takes a long time to respond' (0.80)
+        - irrelevant rel=0.14 via relevance     'Support is only available over email.'  ~ [r034] 'Support is email-only' (0.88)
+        - irrelevant rel=-0.10 via relevance     "The reviewer's new running shoes have a wider toe box than the previous model."  ~ [r024] 'The boards are intuitive' (0.19)
+        - irrelevant rel=0.04 via relevance     "The foam on the reviewer's new running shoes feels bouncier over long distances."  ~ [r024] 'The boards are intuitive' (0.24)
+g20  trivial                0.000  0.00  0.00  0.00  {'final_max': 0.0}
+      final=0.000  (gate 0.00 x novelty 0.00 x substance 0.00)
+      duplicate=False
+      relevance=0.000  recommend=yes  extractor=gemini
+g21  trivial                0.000  0.00  0.00  0.00  {'final_max': 0.0}
+      final=0.000  (gate 0.00 x novelty 0.00 x substance 0.00)
+      duplicate=False
+      relevance=0.000  recommend=mixed  extractor=gemini
+
+12/21 in band  (extractor=gemini)

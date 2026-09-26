@@ -1,0 +1,678 @@
+{
+  "_about": "Synthetic reviews of the Boho listing, authored by an LLM (Claude Fable 5.1) during project setup. Ordered by submission time: review N only 'knows' reviews 1..N-1. Each review carries hand-authored atomic claims so the known-claim pool is independent of the live extractor. Theme tags are for dataset documentation only and are not used by the scorer. Some claims (free client logins, automatic weekly timesheets, no credit card for the trial, approving deliverables, milestones) are also stated in the listing; those reviews are expected to score low on replay because the listing itself is part of the known pool.",
+  "reviews": [
+    {
+      "id": "r001",
+      "headline": "Finally a PM tool my whole agency actually uses",
+      "recommend": "yes",
+      "themes": [
+        "easy_ui",
+        "client_portal"
+      ],
+      "body": "We switched from spreadsheets and everyone picked it up in a day. The interface is clean and doesn't bury features in menus. Our clients love logging into the portal to see where their projects stand.",
+      "claims": [
+        "The interface is clean and easy to learn",
+        "Clients like using the client portal to check project status"
+      ]
+    },
+    {
+      "id": "r002",
+      "headline": "Great value for a five-person studio",
+      "recommend": "yes",
+      "themes": [
+        "pricing",
+        "time_tracking"
+      ],
+      "body": "At $12 a seat it's much cheaper than what we were paying before. Time tracking is built right into the task, so people actually log their hours now instead of guessing at the end of the week.",
+      "claims": [
+        "Pricing is affordable for small teams",
+        "Built-in time tracking makes people log hours consistently"
+      ]
+    },
+    {
+      "id": "r003",
+      "headline": "Solid, but the mobile app needs work",
+      "recommend": "mixed",
+      "themes": [
+        "mobile",
+        "easy_ui"
+      ],
+      "body": "On desktop it's excellent and simple to navigate. The mobile app, though, is slow and crashes when I try to open a board with more than a few dozen cards.",
+      "claims": [
+        "The desktop interface is simple to navigate",
+        "The mobile app is slow and crashes on large boards"
+      ]
+    },
+    {
+      "id": "r004",
+      "headline": "The Slack integration is the killer feature",
+      "recommend": "yes",
+      "themes": [
+        "slack"
+      ],
+      "body": "Every comment and status change lands in the right Slack channel. We barely open the app itself anymore because we can reply to task threads from Slack.",
+      "claims": [
+        "Slack integration posts task updates to channels",
+        "You can reply to task threads from Slack"
+      ]
+    },
+    {
+      "id": "r005",
+      "headline": "Support is painfully slow",
+      "recommend": "no",
+      "themes": [
+        "support"
+      ],
+      "body": "The product is fine, but when we hit a billing bug it took four days to get a reply from support, and the first answer was a canned response.",
+      "claims": [
+        "Support response times are slow",
+        "Support replies with canned responses"
+      ]
+    },
+    {
+      "id": "r006",
+      "headline": "Client portal sold it for us",
+      "recommend": "yes",
+      "themes": [
+        "client_portal"
+      ],
+      "body": "Being able to put our logo on the portal and give clients a read-only view of timelines has cut our status-update emails in half.",
+      "claims": [
+        "The client portal can be branded with your own logo",
+        "Clients get a read-only view of timelines",
+        "The portal reduces status-update emails"
+      ]
+    },
+    {
+      "id": "r007",
+      "headline": "Easy to use, easy to recommend",
+      "recommend": "yes",
+      "themes": [
+        "easy_ui",
+        "onboarding"
+      ],
+      "body": "Zero training needed. The boards work exactly like you'd expect and the Gantt view is just a toggle away. We were fully migrated in a weekend.",
+      "claims": [
+        "No training is needed to use the boards",
+        "Switching between board and Gantt view is a toggle",
+        "Migration onto Boho is fast"
+      ]
+    },
+    {
+      "id": "r008",
+      "headline": "Reporting is too basic",
+      "recommend": "mixed",
+      "themes": [
+        "reporting"
+      ],
+      "body": "Boards and timelines are great, but the reporting is limited to a handful of canned charts. I can't build a utilization report per person without exporting to a spreadsheet.",
+      "claims": [
+        "Reporting is limited to a few canned charts",
+        "There is no per-person utilization report"
+      ]
+    },
+    {
+      "id": "r009",
+      "headline": "Good tool for the price",
+      "recommend": "yes",
+      "themes": [
+        "pricing",
+        "easy_ui"
+      ],
+      "body": "Cheap, straightforward, does the job. Nothing fancy but nothing frustrating either. The free trial was enough to convince the team.",
+      "claims": [
+        "Pricing is affordable",
+        "The tool is straightforward to use",
+        "The free trial was enough to evaluate it"
+      ]
+    },
+    {
+      "id": "r010",
+      "headline": "Time tracking is accurate and unobtrusive",
+      "recommend": "yes",
+      "themes": [
+        "time_tracking"
+      ],
+      "body": "The timer sits on the task card so you start it when you start working. Weekly timesheets roll up automatically and match what we invoice.",
+      "claims": [
+        "The timer lives on the task card",
+        "Weekly timesheets roll up automatically"
+      ]
+    },
+    {
+      "id": "r011",
+      "headline": "Google Calendar sync creates duplicate events",
+      "recommend": "mixed",
+      "themes": [
+        "google",
+        "bug"
+      ],
+      "body": "Mostly happy, but every time I edit a task due date the Google Calendar sync creates a second event instead of updating the first. My calendar is a mess.",
+      "claims": [
+        "Google Calendar sync creates duplicate events when due dates change"
+      ]
+    },
+    {
+      "id": "r012",
+      "headline": "Clean UI, happy clients",
+      "recommend": "yes",
+      "themes": [
+        "easy_ui",
+        "client_portal"
+      ],
+      "body": "The design is uncluttered and my clients have said the portal is the nicest they've used. Approving deliverables in the portal is one click.",
+      "claims": [
+        "The interface is uncluttered",
+        "Clients like the portal",
+        "Clients can approve deliverables from the portal"
+      ]
+    },
+    {
+      "id": "r013",
+      "headline": "Mobile app is an afterthought",
+      "recommend": "mixed",
+      "themes": [
+        "mobile"
+      ],
+      "body": "Everything you can do on desktop you can't do on the phone. No Gantt view, no time tracking on mobile, and notifications arrive late.",
+      "claims": [
+        "The mobile app lacks the Gantt view",
+        "Time tracking is not available on mobile",
+        "Mobile notifications arrive late"
+      ]
+    },
+    {
+      "id": "r014",
+      "headline": "Teams integration is notification-only",
+      "recommend": "mixed",
+      "themes": [
+        "teams"
+      ],
+      "body": "We're a Microsoft shop. The Teams integration just pushes notifications into a channel; you can't act on tasks from Teams the way Slack users can.",
+      "claims": [
+        "Teams integration only pushes notifications",
+        "You cannot act on tasks from Microsoft Teams"
+      ]
+    },
+    {
+      "id": "r015",
+      "headline": "Perfect for a small creative agency",
+      "recommend": "yes",
+      "themes": [
+        "easy_ui",
+        "client_portal",
+        "time_tracking"
+      ],
+      "body": "Boards for the designers, timelines for the account managers, a portal for clients and time tracking for billing. Everything in one place and nothing is hard to find.",
+      "claims": [
+        "Boho combines boards, timelines, portal and time tracking in one place",
+        "Features are easy to find"
+      ]
+    },
+    {
+      "id": "r016",
+      "headline": "No recurring tasks?!",
+      "recommend": "no",
+      "themes": [
+        "missing_feature"
+      ],
+      "body": "We run monthly retainers and there is no way to make a task repeat. I have to duplicate cards by hand every month. Dealbreaker for us.",
+      "claims": [
+        "There is no way to create recurring tasks"
+      ]
+    },
+    {
+      "id": "r017",
+      "headline": "Support got back to us in a week",
+      "recommend": "mixed",
+      "themes": [
+        "support"
+      ],
+      "body": "Love the product but the support experience is bad. A week to answer a simple question about seat billing. There's no phone or chat option.",
+      "claims": [
+        "Support takes a long time to respond",
+        "There is no phone or live chat support"
+      ]
+    },
+    {
+      "id": "r018",
+      "headline": "Gantt timelines are genuinely useful",
+      "recommend": "yes",
+      "themes": [
+        "gantt"
+      ],
+      "body": "Dragging a task on the timeline updates its dates everywhere. Milestones show up as diamonds and the client portal shows the same timeline read-only.",
+      "claims": [
+        "Dragging tasks on the Gantt timeline updates dates",
+        "Milestones are shown on the timeline",
+        "The client portal shows the timeline read-only"
+      ]
+    },
+    {
+      "id": "r019",
+      "headline": "Affordable and the trial is real",
+      "recommend": "yes",
+      "themes": [
+        "pricing"
+      ],
+      "body": "Fourteen days, no credit card required, full features. Then $12 a user, which for a small agency is nothing. Wish annual billing had a bigger discount though.",
+      "claims": [
+        "The free trial does not require a credit card",
+        "Pricing is affordable for small agencies",
+        "Annual billing discount is small"
+      ]
+    },
+    {
+      "id": "r020",
+      "headline": "Onboarded the whole team in an afternoon",
+      "recommend": "yes",
+      "themes": [
+        "onboarding",
+        "easy_ui"
+      ],
+      "body": "Imported our Trello boards, invited everyone, done. The learning curve is almost flat.",
+      "claims": [
+        "You can import boards from Trello",
+        "The learning curve is flat"
+      ]
+    },
+    {
+      "id": "r021",
+      "headline": "Slack integration works but is noisy",
+      "recommend": "mixed",
+      "themes": [
+        "slack"
+      ],
+      "body": "Connecting Slack is easy and updates show up instantly, but there's no way to filter which events post, so the channel becomes a firehose.",
+      "claims": [
+        "Slack updates arrive instantly",
+        "You cannot filter which events are posted to Slack"
+      ]
+    },
+    {
+      "id": "r022",
+      "headline": "Exports are CSV only",
+      "recommend": "mixed",
+      "themes": [
+        "export"
+      ],
+      "body": "I wanted to pull our data into a BI tool. The only export is a flat CSV per board; no JSON, no API export of the whole workspace.",
+      "claims": [
+        "The only export format is CSV per board",
+        "There is no workspace-wide export"
+      ]
+    },
+    {
+      "id": "r023",
+      "headline": "Best client portal in this price range",
+      "recommend": "yes",
+      "themes": [
+        "client_portal",
+        "pricing"
+      ],
+      "body": "We evaluated three tools. Boho's portal was the only one that let clients comment on tasks without buying a seat. That alone justified the price.",
+      "claims": [
+        "Clients can comment on tasks without needing a paid seat",
+        "The client portal is better than competitors at this price"
+      ]
+    },
+    {
+      "id": "r024",
+      "headline": "Intuitive boards, weak search",
+      "recommend": "yes",
+      "themes": [
+        "easy_ui",
+        "search"
+      ],
+      "body": "Boards are intuitive. Search, on the other hand, only matches task titles, so finding an old comment means scrolling.",
+      "claims": [
+        "The boards are intuitive",
+        "Search only matches task titles, not comments"
+      ]
+    },
+    {
+      "id": "r025",
+      "headline": "Timesheets made invoicing painless",
+      "recommend": "yes",
+      "themes": [
+        "time_tracking"
+      ],
+      "body": "Because hours are logged against tasks, our monthly client invoices basically write themselves. Billable vs non-billable toggle is a nice touch.",
+      "claims": [
+        "Logged hours make client invoicing easy",
+        "Tasks have a billable versus non-billable toggle"
+      ]
+    },
+    {
+      "id": "r026",
+      "headline": "Crashes on iPhone",
+      "recommend": "no",
+      "themes": [
+        "mobile"
+      ],
+      "body": "The iOS app crashes every time I open the timeline. Desktop is fine but I'm on the road half the week.",
+      "claims": [
+        "The iOS app crashes when opening the timeline"
+      ]
+    },
+    {
+      "id": "r027",
+      "headline": "Simple and it just works",
+      "recommend": "yes",
+      "themes": [
+        "easy_ui"
+      ],
+      "body": "No complaints. It's simple, fast, and the team adopted it without pushback.",
+      "claims": [
+        "The tool is simple and fast",
+        "The team adopted it without pushback"
+      ]
+    },
+    {
+      "id": "r028",
+      "headline": "Per-seat pricing punishes freelancers",
+      "recommend": "mixed",
+      "themes": [
+        "pricing"
+      ],
+      "body": "We bring in contractors for a few weeks at a time and each one costs a full seat for the month. A guest or day-pass tier would help.",
+      "claims": [
+        "Short-term contractors cost a full monthly seat",
+        "There is no guest or day-pass pricing tier"
+      ]
+    },
+    {
+      "id": "r029",
+      "headline": "Client-facing polish",
+      "recommend": "yes",
+      "themes": [
+        "client_portal"
+      ],
+      "body": "The portal looks professional with our branding and clients can download deliverables from it directly. Big upgrade over emailing files around.",
+      "claims": [
+        "The portal can carry your branding",
+        "Clients can download deliverables from the portal"
+      ]
+    },
+    {
+      "id": "r030",
+      "headline": "No dark mode",
+      "recommend": "mixed",
+      "themes": [
+        "ui"
+      ],
+      "body": "Minor, but there's no dark mode and the white UI is harsh late at night. Otherwise a good, uncomplicated tool.",
+      "claims": [
+        "There is no dark mode",
+        "The tool is uncomplicated"
+      ]
+    },
+    {
+      "id": "r031",
+      "headline": "The Gantt view convinced our PMs",
+      "recommend": "yes",
+      "themes": [
+        "gantt"
+      ],
+      "body": "Our project managers lived in MS Project. Boho's timeline is simpler but covers what we need: drag to reschedule, milestones, and a client-safe view.",
+      "claims": [
+        "The Gantt timeline is simpler than MS Project",
+        "You can drag to reschedule on the timeline",
+        "The timeline has a client-safe view"
+      ]
+    },
+    {
+      "id": "r032",
+      "headline": "Reports need a lot more depth",
+      "recommend": "mixed",
+      "themes": [
+        "reporting"
+      ],
+      "body": "There's a burndown and a time-by-project chart and that's about it. No custom dashboards, no cross-project rollups.",
+      "claims": [
+        "Built-in reports are shallow",
+        "There are no custom dashboards",
+        "There are no cross-project rollups"
+      ]
+    },
+    {
+      "id": "r033",
+      "headline": "Works well with Google Workspace",
+      "recommend": "yes",
+      "themes": [
+        "google"
+      ],
+      "body": "Attaching Drive files to tasks is seamless and Google sign-in means no extra password. Calendar sync is handy for deadlines.",
+      "claims": [
+        "You can attach Google Drive files to tasks",
+        "Google sign-in is supported",
+        "Calendar sync shows deadlines"
+      ]
+    },
+    {
+      "id": "r034",
+      "headline": "Support improved but still slow",
+      "recommend": "mixed",
+      "themes": [
+        "support"
+      ],
+      "body": "Response time went from a week to about two days in the last few months. Still email-only.",
+      "claims": [
+        "Support response time is around two days",
+        "Support is email-only"
+      ]
+    },
+    {
+      "id": "r035",
+      "headline": "A joy to use daily",
+      "recommend": "yes",
+      "themes": [
+        "easy_ui"
+      ],
+      "body": "Fast, clean, keyboard shortcuts for everything. I'd pay more for it honestly.",
+      "claims": [
+        "The interface is fast and clean",
+        "There are keyboard shortcuts for most actions"
+      ]
+    },
+    {
+      "id": "r036",
+      "headline": "API is rate limited hard",
+      "recommend": "mixed",
+      "themes": [
+        "api"
+      ],
+      "body": "We tried to sync tasks to our internal system and hit the rate limit within minutes. 60 requests a minute is not enough for a workspace of our size.",
+      "claims": [
+        "The API rate limit is 60 requests per minute",
+        "The API rate limit is too low for syncing"
+      ]
+    },
+    {
+      "id": "r037",
+      "headline": "Portal reduced our meeting load",
+      "recommend": "yes",
+      "themes": [
+        "client_portal"
+      ],
+      "body": "Clients check the portal instead of asking for weekly calls. That's hours back every week.",
+      "claims": [
+        "The client portal replaces status meetings"
+      ]
+    },
+    {
+      "id": "r038",
+      "headline": "Timer forgets to stop",
+      "recommend": "mixed",
+      "themes": [
+        "time_tracking",
+        "bug"
+      ],
+      "body": "Time tracking is convenient, but if you close the tab the timer keeps running overnight. Needs an idle detection feature.",
+      "claims": [
+        "Time tracking is convenient",
+        "The timer keeps running if you close the tab",
+        "There is no idle detection for the timer"
+      ]
+    },
+    {
+      "id": "r039",
+      "headline": "Cheap enough to give every client a login",
+      "recommend": "yes",
+      "themes": [
+        "pricing",
+        "client_portal"
+      ],
+      "body": "Client logins are free, which matters when you have thirty clients. The team seats are reasonably priced.",
+      "claims": [
+        "Client portal logins are free",
+        "Team seats are reasonably priced"
+      ]
+    },
+    {
+      "id": "r040",
+      "headline": "Easy to learn, hard to outgrow?",
+      "recommend": "mixed",
+      "themes": [
+        "easy_ui",
+        "scale"
+      ],
+      "body": "Great for our 8-person team. I do wonder how it holds up past 30 people since there are no team-level permissions, just workspace admin and member.",
+      "claims": [
+        "Boho works well for small teams",
+        "There are only two permission levels: admin and member"
+      ]
+    },
+    {
+      "id": "r041",
+      "headline": "Slack threads keep discussions in one place",
+      "recommend": "yes",
+      "themes": [
+        "slack"
+      ],
+      "body": "Task comments mirror to a Slack thread and back. Nobody has to ask 'where was that decided' anymore.",
+      "claims": [
+        "Task comments sync bidirectionally with Slack threads"
+      ]
+    },
+    {
+      "id": "r042",
+      "headline": "Notifications are overwhelming",
+      "recommend": "mixed",
+      "themes": [
+        "notifications"
+      ],
+      "body": "Every change emails me. The notification settings are all-or-nothing per workspace, not per project.",
+      "claims": [
+        "Email notifications are sent for every change",
+        "Notification settings cannot be set per project"
+      ]
+    },
+    {
+      "id": "r043",
+      "headline": "The interface is a breath of fresh air",
+      "recommend": "yes",
+      "themes": [
+        "easy_ui"
+      ],
+      "body": "Coming from a bloated enterprise tool, the simplicity here is wonderful. Everything is where you'd expect.",
+      "claims": [
+        "The interface is simple compared to enterprise tools"
+      ]
+    },
+    {
+      "id": "r044",
+      "headline": "Mobile web beats the app",
+      "recommend": "mixed",
+      "themes": [
+        "mobile"
+      ],
+      "body": "The native app is flaky, but the mobile browser version is surprisingly usable. Just skip the app.",
+      "claims": [
+        "The native mobile app is flaky",
+        "The mobile browser version works better than the app"
+      ]
+    },
+    {
+      "id": "r045",
+      "headline": "Timeline handles our 40-project portfolio",
+      "recommend": "yes",
+      "themes": [
+        "gantt"
+      ],
+      "body": "We keep 40 client projects active and the portfolio timeline still loads quickly. Color-coding by client makes the overview readable.",
+      "claims": [
+        "The portfolio timeline loads quickly with many projects",
+        "Projects can be color-coded by client"
+      ]
+    },
+    {
+      "id": "r046",
+      "headline": "Time tracking with no friction",
+      "recommend": "yes",
+      "themes": [
+        "time_tracking"
+      ],
+      "body": "One click to start, one to stop, and it's already attached to the right task. Our designers stopped complaining about timesheets.",
+      "claims": [
+        "Time tracking is one click to start and stop",
+        "Hours attach to the right task automatically"
+      ]
+    },
+    {
+      "id": "r047",
+      "headline": "Wish there were task templates",
+      "recommend": "mixed",
+      "themes": [
+        "missing_feature"
+      ],
+      "body": "Every website project has the same 20 tasks. There's no template to spin them up, so it's copy-paste from an old board each time.",
+      "claims": [
+        "There are no project or task templates"
+      ]
+    },
+    {
+      "id": "r048",
+      "headline": "Better than the big names for agencies",
+      "recommend": "yes",
+      "themes": [
+        "easy_ui",
+        "client_portal"
+      ],
+      "body": "Asana and Monday feel built for internal teams. Boho understands that agencies need a client-facing side. Simple, focused, affordable.",
+      "claims": [
+        "Boho is designed around client-facing work",
+        "Boho is simpler than Asana and Monday"
+      ]
+    },
+    {
+      "id": "r049",
+      "headline": "Support is the weak spot",
+      "recommend": "mixed",
+      "themes": [
+        "support"
+      ],
+      "body": "Product is solid; support is slow and only by email. A knowledge base with more than ten articles would go a long way.",
+      "claims": [
+        "Support is slow and email-only",
+        "The knowledge base is thin"
+      ]
+    },
+    {
+      "id": "r050",
+      "headline": "Exactly what a ten-person agency needs",
+      "recommend": "yes",
+      "themes": [
+        "easy_ui",
+        "pricing",
+        "client_portal"
+      ],
+      "body": "Easy, cheap, and the portal keeps clients informed. We've been on it a year and have no plans to switch.",
+      "claims": [
+        "Boho is easy to use",
+        "Boho is inexpensive",
+        "The portal keeps clients informed"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+id   category               final  gate   nov   sub  band
+g01  duplicate              0.000  0.00  0.00  0.00  {'final_max': 0.0, 'duplicate': True}
+      final=0.000  (gate 0.00 x novelty 0.00 x substance 0.00)
+      duplicate=True of r001 (jaccard 1.00)
+      relevance=0.000  recommend=yes  extractor=gemini
+g02  duplicate              0.000  0.00  0.00  0.00  {'final_max': 0.0, 'duplicate': True}
+      final=0.000  (gate 0.00 x novelty 0.00 x substance 0.00)
+      duplicate=True of r001 (jaccard 0.91)
+      relevance=0.000  recommend=yes  extractor=gemini
+g03  rehash                 0.000  1.00  0.00  0.00  {'final_max': 0.25}
+      final=0.000  (gate 1.00 x novelty 0.00 x substance 0.00)
+      duplicate=False
+      relevance=1.000  recommend=yes  extractor=gemini
+        - known      on  cos=0.21 via cosine_high 'Boho is super easy to use.'  ~ [r050] 'Boho is easy to use' (0.93)
+        - known      on  cos=0.25 via judge       'The UI is clean and simple.'  ~ [r001] 'The interface is clean and easy to learn' (0.69)
+        - known      on  cos=0.23 via judge       'Nobody on the team needed training to use the software.'  ~ [r007] 'No training is needed to use the boards' (0.49)
+        - known      on  cos=0.48 via judge       'Clients like being able to log into the portal to see project progress.'  ~ [r001] 'Clients like using the client portal to check project status' (0.76)
+g04  rehash                 0.125  1.00  0.25  0.50  {'final_max': 0.25}
+      final=0.125  (gate 1.00 x novelty 0.25 x substance 0.50)
+      duplicate=False
+      relevance=1.000  recommend=yes  extractor=gemini
+        - known      on  cos=0.42 via judge       'Boho costs twelve dollars per user.'  ~ [listing] 'Boho plans start at $12 per user per month.' (0.67)
+        - new        on  cos=0.30 via judge       'Boho is very affordable for a small shop.'  ~ [r050] 'Boho is inexpensive' (0.74)
+        - known      on  cos=0.47 via judge       'Tracking hours directly on tasks in Boho is convenient.'  ~ [listing] 'Boho includes built-in time tracking to log hours.' (0.75)
+        - known      on  cos=0.29 via judge       "The reviewer's team actually tracks their hours now."  ~ [r002] 'Built-in time tracking makes people log hours consistently' (0.64)
+g05  rehash                 0.000  1.00  0.00  0.00  {'final_max': 0.25}
+      final=0.000  (gate 1.00 x novelty 0.00 x substance 0.00)
+      duplicate=False
+      relevance=1.000  recommend=mixed  extractor=gemini
+        - known      on  cos=0.12 via judge       'The mobile app crashes constantly.'  ~ [r003] 'The mobile app is slow and crashes on large boards' (0.77)
+        - known      on  cos=0.19 via judge       'The mobile app is missing most features.'  ~ [r013] 'The mobile app lacks the Gantt view' (0.65)
+        - known      on  cos=0.22 via judge       'Customer support took days to reply.'  ~ [r034] 'Support response time is around two days' (0.72)
+        - known      on  cos=0.24 via judge       'Customer support is only provided via email.'  ~ [r034] 'Support is email-only' (0.75)
+g06  rehash                 0.000  1.00  0.00  0.00  {'final_max': 0.25}
+      final=0.000  (gate 1.00 x novelty 0.00 x substance 0.00)
+      duplicate=False
+      relevance=1.000  recommend=yes  extractor=gemini
+        - known      on  cos=0.21 via judge       'All task updates show up in Slack right away.'  ~ [r021] 'Slack updates arrive instantly' (0.74)
+        - known      on  cos=0.17 via judge       'You can answer comments from the Slack thread.'  ~ [r004] 'You can reply to task threads from Slack' (0.79)
+g07  listing_restatement    0.000  1.00  0.00  0.00  {'final_max': 0.25}
+      final=0.000  (gate 1.00 x novelty 0.00 x substance 0.00)
+      duplicate=False
+      relevance=1.000  recommend=yes  extractor=gemini
+        - known      on  cos=0.50 via cosine_high 'Boho is a project management tool designed for small agencies.'  ~ [listing] 'Boho is project management software built for small agencies.' (0.93)
+        - known      on  cos=0.44 via judge       'Boho features Kanban boards.'  ~ [listing] 'Boho allows users to plan work on Kanban boards and Gantt timelines.' (0.67)
+        - known      on  cos=0.51 via judge       'Boho features Gantt timelines.'  ~ [r031] 'The Gantt timeline is simpler than MS Project' (0.79)
+        - known      on  cos=0.37 via judge       'Boho includes branded client portals.'  ~ [listing] 'Boho allows users to share progress through branded client portals.' (0.77)
+        - known      on  cos=0.37 via cosine_high 'Boho has built-in time tracking.'  ~ [r038] 'Time tracking is convenient' (0.80)
+        - known      on  cos=0.47 via judge       'Boho allows users to assign tasks.'  ~ [listing] 'Boho allows users to assign tasks, set due dates, and set milestones.' (0.78)
+        - known      on  cos=0.50 via cosine_high 'Boho allows users to set due dates and milestones.'  ~ [listing] 'Boho allows users to assign tasks, set due dates, and set milestones.' (0.93)
+        - known      on  cos=0.36 via judge       'Boho allows users to attach files to tasks.'  ~ [listing] 'Boho allows users to attach files and keep comments next to work.' (0.78)
+        - known      on  cos=0.50 via cosine_high 'Clients get free logins to Boho to approve deliverables.'  ~ [listing] 'Clients get free logins to review and approve deliverables without buying a seat in Boho.' (0.88)
+        - known      on  cos=0.44 via judge       'Timesheets in Boho roll up weekly.'  ~ [listing] 'Weekly timesheets roll up automatically for billing in Boho.' (0.76)
+        - known      on  cos=0.52 via cosine_high 'Boho integrates with Slack, Google Workspace, and Microsoft Teams.'  ~ [listing] 'Boho integrates with Slack, Google Workspace, and Microsoft Teams.' (1.00)
+        - known      on  cos=0.30 via cosine_high 'Boho has apps for iOS and Android.'  ~ [listing] 'Boho offers apps for web, iOS, and Android.' (0.93)
+        - known      on  cos=0.53 via cosine_high 'Boho costs $12 per user per month.'  ~ [listing] 'Boho plans start at $12 per user per month.' (0.86)
+        - known      on  cos=0.38 via judge       'Boho offers a 14-day trial.'  ~ [listing] 'Boho offers a 14-day free trial with no credit card required.' (0.70)
+g08  novel_relevant         1.000  1.00  1.00  1.00  {'final_min': 0.6}
+      final=1.000  (gate 1.00 x novelty 1.00 x substance 1.00)
+      duplicate=False
+      relevance=1.000  recommend=yes  extractor=gemini
+        - new        on  cos=0.26 via judge       'The workload view shows over-allocation per person.'  ~ [r008] 'There is no per-person utilization report' (0.53)
+        - new        on  cos=0.20 via judge       'Tasks can be rebalanced in the workload view by dragging them between people.'  ~ [r018] 'Dragging tasks on the Gantt timeline updates dates' (0.45)
+        - new        on  cos=0.37 via cosine_low  'Retainer budgets can be capped per client.'  ~ [r019] 'Pricing is affordable for small agencies' (0.38)
+        - new        on  cos=0.25 via cosine_low  'An alert is triggered when a retainer budget reaches 80% spend.'  ~ [r019] 'Annual billing discount is small' (0.35)
+        - new        on  cos=0.22 via cosine_low  'The audit log keeps only 30 days of records on the Starter tier.'  ~ [listing] 'Boho includes built-in time tracking to log hours.' (0.32)
+        - new        on  cos=0.20 via cosine_low  'The 30-day audit log retention on the Starter tier caused an issue during a dispute.'  ~ [r002] 'Built-in time tracking makes people log hours consistently' (0.31)
+g09  novel_relevant         1.000  1.00  1.00  1.00  {'final_min': 0.6}
+      final=1.000  (gate 1.00 x novelty 1.00 x substance 1.00)
+      duplicate=False
+      relevance=1.000  recommend=yes  extractor=gemini
+        - new        on  cos=0.30 via cosine_low  'Okta SSO is available only on the Business plan.'  ~ [r012] 'Clients can approve deliverables from the portal' (0.30)
+        - new        on  cos=0.44 via judge       'Tracked time exports directly into QuickBooks invoices with the client and project mapped.'  ~ [r025] 'Logged hours make client invoicing easy' (0.47)
+        - new        on  cos=0.08 via cosine_low  'Users can select EU data residency at signup.'  ~ [r039] 'Client portal logins are free' (0.31)
+        - new        on  cos=0.10 via cosine_low  "The reviewer's German clients required EU data residency."  ~ [listing] 'Clients get free logins to review and approve deliverables without buying a seat in Boho.' (0.26)
+g10  novel_relevant         1.000  1.00  1.00  1.00  {'final_min': 0.6}
+      final=1.000  (gate 1.00 x novelty 1.00 x substance 1.00)
+      duplicate=False
+      relevance=1.000  recommend=mixed  extractor=gemini
+        - new        on  cos=0.38 via judge       'Gantt dependencies break across month boundaries.'  ~ [r031] 'The Gantt timeline is simpler than MS Project' (0.62)
+        - new        on  cos=0.24 via judge       'Dependent tasks do not move when a task with dependencies is dragged across a month boundary.'  ~ [r018] 'Dragging tasks on the Gantt timeline updates dates' (0.53)
+        - new        on  cos=0.22 via judge       'Dragging a task with dependencies across a month boundary causes a silent scheduling conflict.'  ~ [r018] 'Dragging tasks on the Gantt timeline updates dates' (0.55)
+        - new        on  cos=0.10 via judge       'Two-factor authentication is mandatory for workspace admins.'  ~ [r040] 'There are only two permission levels: admin and member' (0.41)
+g11  novel_relevant         1.000  1.00  1.00  1.00  {'final_min': 0.6}
+      final=1.000  (gate 1.00 x novelty 1.00 x substance 1.00)
+      duplicate=False
+      relevance=1.000  recommend=yes  extractor=gemini
+        - new        on  cos=0.17 via judge       "Boho's automations are more capable than they look."  ~ [r043] 'The interface is simple compared to enterprise tools' (0.50)
+        - new        on  cos=0.29 via judge       "Users can build rules such as 'when a card moves to Review, assign the account manager and post to the client portal'."  ~ [r012] 'Clients can approve deliverables from the portal' (0.49)
+        - new        on  cos=0.13 via cosine_low  'Automation rules can chain.'  ~ [listing] 'Boho allows users to assign tasks, set due dates, and set milestones.' (0.28)
+        - new        on  cos=0.31 via cosine_low  'There is a per-workspace limit of 50 rules on the Starter plan.'  ~ [listing] 'Boho plans start at $12 per user per month.' (0.37)
+g12  mixed                  0.400  1.00  0.40  1.00  {'final_min': 0.2, 'final_max': 0.8}
+      final=0.400  (gate 1.00 x novelty 0.40 x substance 1.00)
+      duplicate=False
+      relevance=1.000  recommend=yes  extractor=gemini
+        - known      on  cos=0.23 via cosine_high 'The product is easy to use.'  ~ [r050] 'Boho is easy to use' (0.98)
+        - known      on  cos=0.05 via cosine_high 'The interface is clean.'  ~ [r035] 'The interface is fast and clean' (0.86)
+        - known      on  cos=0.16 via judge       "The reviewer's team required no training to use the product."  ~ [r007] 'No training is needed to use the boards' (0.58)
+        - new        on  cos=0.34 via judge       'The timeline feature allows users to save a baseline and compare planned versus actual dates.'  ~ [r031] 'You can drag to reschedule on the timeline' (0.61)
+        - new        on  cos=0.28 via cosine_low  "The reviewer's clients constantly ask about comparing planned versus actual dates."  ~ [r031] 'The timeline has a client-safe view' (0.38)
+g13  mixed                  0.600  1.00  0.60  1.00  {'final_min': 0.2, 'final_max': 0.8}
+      final=0.600  (gate 1.00 x novelty 0.60 x substance 1.00)
+      duplicate=False
+      relevance=1.000  recommend=mixed  extractor=gemini
+        - known      on  cos=0.17 via cosine_high 'Support is email-only.'  ~ [r034] 'Support is email-only' (0.98)
+        - known      on  cos=0.16 via judge       'Support is slow.'  ~ [r017] 'Support takes a long time to respond' (0.76)
+        - new        on  cos=0.08 via judge       'The desktop app has a proper offline mode.'  ~ [r044] 'The mobile browser version works better than the app' (0.42)
+        - new        on  cos=0.08 via cosine_low  'Edits made on a plane synced cleanly upon landing.'  ~ [r031] 'You can drag to reschedule on the timeline' (0.32)
+        - new        on  cos=0.14 via cosine_low  'The app presented a conflict prompt for a card edited by two people.'  ~ [listing] 'Boho offers apps for web, iOS, and Android.' (0.32)
+g14  novel_irrelevant       0.000  0.00  0.00  0.00  {'final_max': 0.1}
+      final=0.000  (gate 0.00 x novelty 0.00 x substance 0.00)
+      duplicate=False
+      relevance=0.000  recommend=yes  extractor=gemini
+        - irrelevant off cos=0.20 via relevance   'This is the best espresso machine under $500.'  ~ [r009] 'Pricing is affordable' (0.34)
+        - irrelevant off cos=0.00 via relevance   'The pressure profiling gives a thick crema.'  ~ [r027] 'The tool is simple and fast' (0.31)
+        - irrelevant off cos=0.05 via relevance   'The steam wand is fast enough for back-to-back lattes.'  ~ [r035] 'The interface is fast and clean' (0.28)
+        - irrelevant off cos=0.13 via relevance   'Descaling takes ten minutes.'  ~ [r027] 'The tool is simple and fast' (0.36)
+        - irrelevant off cos=0.15 via relevance   'The drip tray fills up quickly.'  ~ [r021] 'Slack updates arrive instantly' (0.30)
+g15  novel_irrelevant       0.000  0.00  0.00  0.00  {'final_max': 0.1}
+      final=0.000  (gate 0.00 x novelty 0.00 x substance 0.00)
+      duplicate=False
+      relevance=0.000  recommend=yes  extractor=gemini
+        - irrelevant off cos=0.10 via relevance   'The light on the peaks at sunrise during the Tre Cime loop hike on Saturday was unreal.'  ~ [r030] 'There is no dark mode' (0.26)
+        - irrelevant off cos=0.04 via relevance   'The rifugio served the best barley soup the reviewer has ever had.'  ~ [r035] 'The interface is fast and clean' (0.17)
+        - irrelevant off cos=0.07 via relevance   'Booking the cable car early avoids the queue.'  ~ [r031] 'You can drag to reschedule on the timeline' (0.31)
+g16  novel_irrelevant       0.000  0.00  0.00  0.00  {'final_max': 0.1}
+      final=0.000  (gate 0.00 x novelty 0.00 x substance 0.00)
+      duplicate=False
+      relevance=0.000  recommend=yes  extractor=gemini
+        - irrelevant off cos=0.09 via relevance   'Bulk fermenting sourdough at 26 degrees for five hours yields good results.'  ~ [r048] 'Boho is simpler than Asana and Monday' (0.21)
+        - irrelevant off cos=0.01 via relevance   'Sourdough should be shaped tightly and retarded overnight in the fridge.'  ~ [r048] 'Boho is simpler than Asana and Monday' (0.22)
+        - irrelevant off cos=0.01 via relevance   'A dutch oven preheated for an hour gives a much better sourdough ear than a baking stone.'  ~ [r038] 'The timer keeps running if you close the tab' (0.17)
+g17  novel_irrelevant       0.000  0.00  0.00  0.00  {'final_max': 0.1}
+      final=0.000  (gate 0.00 x novelty 0.00 x substance 0.00)
+      duplicate=False
+      relevance=0.000  recommend=no  extractor=gemini
+        - irrelevant off cos=0.06 via relevance   'The sightlines from the upper tier are terrible.'  ~ [r012] 'The interface is uncluttered' (0.32)
+        - irrelevant off cos=0.05 via relevance   'The concourse gets gridlocked at halftime.'  ~ [r039] 'Team seats are reasonably priced' (0.22)
+        - irrelevant off cos=-0.00 via relevance   'Parking is a mile away.'  ~ [r039] 'Team seats are reasonably priced' (0.16)
+        - irrelevant off cos=-0.21 via relevance   'The old ground had far more atmosphere.'  ~ [r027] 'The team adopted it without pushback' (0.15)
+g18  padded_irrelevant      0.000  0.93  0.00  0.00  {'final_max': 0.25}
+      final=0.000  (gate 0.93 x novelty 0.00 x substance 0.00)
+      duplicate=False
+      relevance=0.714  recommend=yes  extractor=gemini
+        - known      on  cos=0.21 via cosine_high 'The product is super easy to use.'  ~ [r050] 'Boho is easy to use' (0.93)
+        - known      on  cos=0.35 via judge       'Clients are happy with the product.'  ~ [r012] 'Clients like the portal' (0.57)
+        - known      on  cos=0.25 via judge       'The UI is clean and simple.'  ~ [r001] 'The interface is clean and easy to learn' (0.69)
+        - known      on  cos=0.16 via judge       "Nobody on the reviewer's team needed training to use the product."  ~ [r007] 'No training is needed to use the boards' (0.45)
+        - known      on  cos=0.49 via judge       'Clients like being able to log into the portal to see progress on their projects.'  ~ [r001] 'Clients like using the client portal to check project status' (0.73)
+        - irrelevant off cos=0.15 via relevance   "The ramen place near the reviewer's office serves fantastic tonkotsu."  ~ [listing] 'Boho allows users to plan work on Kanban boards and Gantt timelines.' (0.24)
+        - irrelevant off cos=0.04 via relevance   'Lisbon in October is the perfect temperature for a conference.'  ~ [r039] 'Team seats are reasonably priced' (0.17)
+g19  padded_irrelevant      0.000  0.83  0.00  0.00  {'final_max': 0.25}
+      final=0.000  (gate 0.83 x novelty 0.00 x substance 0.00)
+      duplicate=False
+      relevance=0.667  recommend=mixed  extractor=gemini
+        - known      on  cos=0.12 via judge       'The mobile app crashes constantly.'  ~ [r003] 'The mobile app is slow and crashes on large boards' (0.77)
+        - known      on  cos=0.19 via judge       'The mobile app is missing most features.'  ~ [r013] 'The mobile app lacks the Gantt view' (0.65)
+        - known      on  cos=0.12 via cosine_high 'Support took days to reply.'  ~ [r017] 'Support takes a long time to respond' (0.80)
+        - known      on  cos=0.17 via cosine_high 'Support is only available over email.'  ~ [r034] 'Support is email-only' (0.88)
+        - irrelevant off cos=-0.09 via relevance   "The reviewer's new running shoes have a wider toe box than the previous model."  ~ [r024] 'The boards are intuitive' (0.19)
+        - irrelevant off cos=-0.06 via relevance   "The foam in the reviewer's new running shoes feels bouncier over long distances."  ~ [r024] 'The boards are intuitive' (0.23)
+g20  trivial                0.000  0.00  0.00  0.00  {'final_max': 0.0}
+      final=0.000  (gate 0.00 x novelty 0.00 x substance 0.00)
+      duplicate=False
+      relevance=0.000  recommend=yes  extractor=gemini
+g21  trivial                0.000  0.00  0.00  0.00  {'final_max': 0.0}
+      final=0.000  (gate 0.00 x novelty 0.00 x substance 0.00)
+      duplicate=False
+      relevance=0.000  recommend=mixed  extractor=gemini
+g23  mixed                  0.600  1.00  0.60  1.00  {'final_min': 0.2, 'final_max': 0.8}
+      final=0.600  (gate 1.00 x novelty 0.60 x substance 1.00)
+      duplicate=False
+      relevance=0.800  recommend=mixed  extractor=gemini
+        - new        on  cos=0.28 via judge       'Micromanagement increased after using the product.'  ~ [listing] 'Boho is project management software built for small agencies.' (0.41)
+        - new        on  cos=0.34 via judge       'The client keeps track of every story in the app.'  ~ [r050] 'The portal keeps clients informed' (0.53)
+        - new        on  cos=0.25 via cosine_low  'The client repeatedly asks the reviewer to add tasks to stories.'  ~ [r016] 'There is no way to create recurring tasks' (0.38)
+        - known      on  cos=0.15 via judge       "Notifications arrive on the reviewer's phone."  ~ [r013] 'Mobile notifications arrive late' (0.52)
+        - irrelevant off cos=0.13 via relevance   'The reviewer wants to watch reels.'  ~ [r032] 'Built-in reports are shallow' (0.25)
+g24  trivial                0.500  1.00  1.00  0.50  {'final_max': 0.0}  <-- KNOWN GAP (expected failure)
+      final=0.500  (gate 1.00 x novelty 1.00 x substance 0.50)
+      duplicate=False
+      relevance=1.000  recommend=mixed  extractor=gemini
+        - new        on  cos=0.14 via judge       'The Boho logo is cute.'  ~ [r006] 'The client portal can be branded with your own logo' (0.51)
+22/23 in band, 1 known gap  (extractor=gemini)

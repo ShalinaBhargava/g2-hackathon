@@ -1,0 +1,220 @@
+{
+  "_about": "Labeled submissions scored against the full 50-review corpus in data/corpus.json. Each item has a category and an expected score band. Bands are deliberately wide: they encode the ordering the scorer must preserve, not exact values. 'pair_of' links a padded submission to its un-padded twin; the padded one must never score higher. Items with 'known_gap': true encode a requirement the scorer does not yet meet; the test marks them as expected failures (strict) so they surface the moment the behaviour changes.",
+  "bands": {
+    "duplicate": {
+      "final_max": 0.0,
+      "duplicate": true
+    },
+    "rehash": {
+      "final_max": 0.25
+    },
+    "listing_restatement": {
+      "final_max": 0.25
+    },
+    "novel_relevant": {
+      "final_min": 0.6
+    },
+    "mixed": {
+      "final_min": 0.2,
+      "final_max": 0.8
+    },
+    "novel_irrelevant": {
+      "final_max": 0.1
+    },
+    "padded_irrelevant": {
+      "final_max": 0.25
+    },
+    "trivial": {
+      "final_max": 0.0
+    }
+  },
+  "items": [
+    {
+      "id": "g01",
+      "category": "duplicate",
+      "headline": "Finally a PM tool my whole agency actually uses",
+      "recommend": "yes",
+      "body": "We switched from spreadsheets and everyone picked it up in a day. The interface is clean and doesn't bury features in menus. Our clients love logging into the portal to see where their projects stand.",
+      "note": "Verbatim copy of r001."
+    },
+    {
+      "id": "g02",
+      "category": "duplicate",
+      "headline": "Finally a PM tool my whole agency really uses",
+      "recommend": "yes",
+      "body": "We switched from spreadsheets and everybody picked it up in a day. The interface is clean and doesn't bury features in menus. Our clients love logging into the portal to see where their projects stand!",
+      "note": "r001 with three words changed and a punctuation edit."
+    },
+    {
+      "id": "g03",
+      "category": "rehash",
+      "headline": "Super easy to use and clients are happy",
+      "recommend": "yes",
+      "body": "The UI is really clean and simple, nobody on the team needed any training. Our clients really like being able to log in to the portal and see progress on their projects.",
+      "note": "Paraphrase of the two most common themes (easy_ui, client_portal)."
+    },
+    {
+      "id": "g04",
+      "category": "rehash",
+      "headline": "Cheap and the time tracking is handy",
+      "recommend": "yes",
+      "body": "At twelve dollars per user it is very affordable for a small shop like ours. Tracking hours directly on the task is convenient and the team actually does it now.",
+      "note": "Paraphrase of pricing + time_tracking themes."
+    },
+    {
+      "id": "g05",
+      "category": "rehash",
+      "headline": "Mobile app is bad and support is slow",
+      "recommend": "mixed",
+      "body": "The phone app crashes constantly and is missing most features. Support took days to reply and it's only over email.",
+      "note": "Paraphrase of mobile + support complaints already made several times."
+    },
+    {
+      "id": "g06",
+      "category": "rehash",
+      "headline": "Slack integration is great",
+      "recommend": "yes",
+      "body": "All task updates show up in Slack right away and you can answer comments from the Slack thread. Very handy.",
+      "note": "Paraphrase of r004 / r021 / r041."
+    },
+    {
+      "id": "g07",
+      "category": "listing_restatement",
+      "headline": "Boards, timelines, portals and time tracking",
+      "recommend": "yes",
+      "body": "Boho is a project management tool for small agencies. It has Kanban boards, Gantt timelines, branded client portals and built-in time tracking. You can assign tasks, set due dates and milestones, and attach files to tasks. Clients get free logins to approve deliverables and timesheets roll up weekly. It integrates with Slack, Google Workspace and Microsoft Teams, has iOS and Android apps, and costs $12 per user per month with a 14-day trial.",
+      "note": "Restates the listing; every claim is already in the fixed content."
+    },
+    {
+      "id": "g08",
+      "category": "novel_relevant",
+      "headline": "Workload view and retainer budgets are the hidden gems",
+      "recommend": "yes",
+      "body": "The workload view shows over-allocation per person and you can rebalance by dragging tasks between people. Retainer budgets can be capped per client with an alert at 80% spend. The audit log only keeps 30 days on the Starter tier, which bit us during a dispute.",
+      "note": "Three concrete points nobody in the corpus mentions: workload view, retainer budget caps, audit log retention."
+    },
+    {
+      "id": "g09",
+      "category": "novel_relevant",
+      "headline": "SSO, QuickBooks and EU hosting: what the listing doesn't say",
+      "recommend": "yes",
+      "body": "Okta SSO is available but only on the Business plan. Tracked time exports straight into QuickBooks invoices with the client and project mapped. You can pick EU data residency at signup, which our German clients required.",
+      "note": "SSO tiering, QuickBooks export, EU data residency: all absent from the corpus."
+    },
+    {
+      "id": "g10",
+      "category": "novel_relevant",
+      "headline": "Gantt dependencies break across month boundaries",
+      "recommend": "mixed",
+      "body": "If you drag a task with dependencies so it crosses into the next month, the dependent tasks don't move and you get a silent scheduling conflict. Also, two-factor authentication is mandatory for workspace admins, which I appreciate.",
+      "note": "A specific Gantt dependency bug and a security detail, neither in the corpus."
+    },
+    {
+      "id": "g11",
+      "category": "novel_relevant",
+      "headline": "Automations are more capable than they look",
+      "recommend": "yes",
+      "body": "You can build rules like 'when a card moves to Review, assign the account manager and post to the client portal'. Rules can chain, and there's a per-workspace limit of 50 rules on the Starter plan.",
+      "note": "Automation rules and their plan limit are not in the corpus."
+    },
+    {
+      "id": "g12",
+      "category": "mixed",
+      "headline": "Easy to use, and baselines are a nice surprise",
+      "recommend": "yes",
+      "body": "The interface is clean and the team needed no training. What I didn't expect: the timeline lets you save a baseline and compare planned versus actual dates, which our clients ask about constantly.",
+      "note": "One repeated theme (easy_ui) plus one genuinely new point (timeline baselines)."
+    },
+    {
+      "id": "g13",
+      "category": "mixed",
+      "headline": "Support is slow, but the offline mode saves the day",
+      "recommend": "mixed",
+      "body": "Support is email-only and slow, as everyone says. On the plus side the desktop app has a proper offline mode: edits made on a plane synced cleanly when I landed, with a conflict prompt for the one card two of us had touched.",
+      "note": "Repeated support complaint plus new offline-sync detail."
+    },
+    {
+      "id": "g14",
+      "category": "novel_irrelevant",
+      "headline": "Best espresso machine under $500",
+      "recommend": "yes",
+      "body": "The pressure profiling gives a thick crema and the steam wand is fast enough for back-to-back lattes. Descaling takes ten minutes. My only gripe is the drip tray fills up quickly.",
+      "note": "Detailed, novel, and about a coffee machine."
+    },
+    {
+      "id": "g15",
+      "category": "novel_irrelevant",
+      "headline": "A beautiful weekend in the Dolomites",
+      "recommend": "yes",
+      "body": "We hiked the Tre Cime loop on Saturday and the light on the peaks at sunrise was unreal. The rifugio served the best barley soup I've had. Book the cable car early to avoid the queue.",
+      "note": "Travel diary. Highly novel relative to the corpus, zero relevance."
+    },
+    {
+      "id": "g16",
+      "category": "novel_irrelevant",
+      "headline": "Sourdough tips that finally worked",
+      "recommend": "yes",
+      "body": "Bulk ferment at 26 degrees for five hours, then shape tight and retard overnight in the fridge. A dutch oven preheated for an hour gives a much better ear than a baking stone.",
+      "note": "Recipe text."
+    },
+    {
+      "id": "g17",
+      "category": "novel_irrelevant",
+      "headline": "Thoughts on the new stadium",
+      "recommend": "no",
+      "body": "The sightlines from the upper tier are terrible and the concourse gets gridlocked at half time. Parking is a mile away. The old ground had far more atmosphere.",
+      "note": "Review-shaped text about a stadium: same genre, wrong subject."
+    },
+    {
+      "id": "g18",
+      "category": "padded_irrelevant",
+      "pair_of": "g03",
+      "headline": "Super easy to use and clients are happy",
+      "recommend": "yes",
+      "body": "The UI is really clean and simple, nobody on the team needed any training. Our clients really like being able to log in to the portal and see progress on their projects. Unrelated, but the ramen place that opened near our office does a fantastic tonkotsu, and Lisbon in October is the perfect temperature for a conference.",
+      "note": "g03 plus two novel but irrelevant sentences. Must not score higher than g03."
+    },
+    {
+      "id": "g19",
+      "category": "padded_irrelevant",
+      "pair_of": "g05",
+      "headline": "Mobile app is bad and support is slow",
+      "recommend": "mixed",
+      "body": "The phone app crashes constantly and is missing most features. Support took days to reply and it's only over email. On another note, my new running shoes have a wider toe box than the last model and the foam feels bouncier over long distances.",
+      "note": "g05 plus a running-shoe aside."
+    },
+    {
+      "id": "g20",
+      "category": "trivial",
+      "headline": "Good",
+      "recommend": "yes",
+      "body": "Good.",
+      "note": "No extractable claim."
+    },
+    {
+      "id": "g21",
+      "category": "trivial",
+      "headline": "",
+      "recommend": "mixed",
+      "body": "",
+      "note": "Empty submission."
+    },
+    {
+      "id": "g23",
+      "category": "mixed",
+      "headline": "Micromanagement increased after this!",
+      "recommend": "mixed",
+      "body": "My client keeps track of every story and keeps bugging me to add tasks to stories, notifications come on phone, let me watch my reels man!!",
+      "note": "Author-written. Mostly on topic despite the tone: one new point (portal visibility leads to client micromanagement), known points (phone notifications, clients tracking work), and one off-topic aside (reels). Originally labelled novel_irrelevant; relabelled because the text is about the product."
+    },
+    {
+      "id": "g24",
+      "category": "trivial",
+      "headline": "the logo is cute",
+      "recommend": "mixed",
+      "body": "what say",
+      "note": "Author-written. Content-free aesthetic praise plus a body with no claim. Requirement: earns nothing. Known gap: the extractor treats 'the logo is cute' as an on-topic claim and the single new claim scores 0.5 (substance cap). Kept as an expected failure rather than relabelled.",
+      "known_gap": true
+    }
+  ]
+}

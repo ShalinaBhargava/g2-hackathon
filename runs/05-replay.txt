@@ -1,0 +1,53 @@
+python -m novelty.cli replay   (2026-09-26 ~14:55 IST, run 04 configuration)
+
+id      final  gate   nov  headline
+r001    1.000  1.00  1.00  Finally a PM tool my whole agency actually uses
+r002    0.750  1.00  0.75  Great value for a five-person studio
+r003    1.000  1.00  1.00  Solid, but the mobile app needs work
+r004    1.000  1.00  1.00  The Slack integration is the killer feature
+r005    1.000  1.00  1.00  Support is painfully slow
+r006    0.750  1.00  0.75  Client portal sold it for us
+r007    1.000  1.00  1.00  Easy to use, easy to recommend
+r008    1.000  1.00  1.00  Reporting is too basic
+r009    0.714  1.00  0.71  Good tool for the price
+r010    0.800  1.00  0.80  Time tracking is accurate and unobtrusive
+r011    1.000  1.00  1.00  Google Calendar sync creates duplicate events
+r012    0.167  1.00  0.33  Clean UI, happy clients
+r013    1.000  1.00  1.00  Mobile app is an afterthought
+r014    0.500  1.00  0.50  Teams integration is notification-only
+r015    0.571  1.00  0.57  Perfect for a small creative agency
+r016    1.000  1.00  1.00  No recurring tasks?!
+r017    1.000  1.00  1.00  Support got back to us in a week
+r018    0.750  1.00  0.75  Gantt timelines are genuinely useful
+r019    0.667  1.00  0.67  Affordable and the trial is real
+r020    1.000  1.00  1.00  Onboarded the whole team in an afternoon
+r021    1.000  1.00  1.00  Slack integration works but is noisy
+r022    1.000  1.00  1.00  Exports are CSV only
+r023    1.000  1.00  1.00  Best client portal in this price range
+r024    0.667  1.00  0.67  Intuitive boards, weak search
+r025    0.667  1.00  0.67  Timesheets made invoicing painless
+r026    0.139  0.83  0.33  Crashes on iPhone
+r027    0.800  1.00  0.80  Simple and it just works
+r028    1.000  1.00  1.00  Per-seat pricing punishes freelancers
+r029    0.667  1.00  0.67  Client-facing polish
+r030    0.667  1.00  0.67  No dark mode
+r031    0.286  1.00  0.29  The Gantt view convinced our PMs
+r032    0.750  1.00  0.75  Reports need a lot more depth
+r033    0.750  1.00  0.75  Works well with Google Workspace
+r034    0.167  1.00  0.33  Support improved but still slow
+r035    0.500  1.00  0.50  A joy to use daily
+r036    1.000  1.00  1.00  API is rate limited hard
+r037    1.000  1.00  1.00  Portal reduced our meeting load
+r038    0.667  1.00  0.67  Timer forgets to stop
+r039    0.500  1.00  0.50  Cheap enough to give every client a login
+r040    0.750  1.00  0.75  Easy to learn, hard to outgrow?
+r041    1.000  1.00  1.00  Slack threads keep discussions in one place
+r042    1.000  1.00  1.00  Notifications are overwhelming
+r043    0.167  1.00  0.33  The interface is a breath of fresh air
+r044    0.250  1.00  0.50  Mobile web beats the app
+r045    1.000  1.00  1.00  Timeline handles our 40-project portfolio
+r046    0.750  1.00  0.75  Time tracking with no friction
+r047    1.000  1.00  1.00  Wish there were task templates
+r048    0.750  1.00  0.75  Better than the big names for agencies
+r049    0.500  1.00  0.50  Support is the weak spot
+r050    0.500  1.00  0.50  Exactly what a ten-person agency needs

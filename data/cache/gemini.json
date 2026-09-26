@@ -1,0 +1,2357 @@
+{
+ "a46777b4ae96c81b56bbfe85d1e73981b9b275276783f6762935172b9ac3cf7a": [
+  "Boho is super easy to use.",
+  "Clients are happy with the product.",
+  "The user interface is clean and simple.",
+  "Nobody on the team needed training to use Boho.",
+  "Clients like being able to log in to the portal and see progress on their projects."
+ ],
+ "830bc215a5ad0c05b7e9b5c5bc2a080769a64c20f4eaa28e03bb8f735ca1f347": false,
+ "f2351ac49f42d243e8dabf9ea98c01afb7da1017d81b72ff0f87a4babb2581eb": false,
+ "58b56a2d88969aeab4742abcfc6cb4349452861abebefabaf63ec820784fb892": [
+  "Boho costs twelve dollars per user.",
+  "Boho is affordable for a small shop.",
+  "Boho allows tracking hours directly on tasks.",
+  "Tracking hours directly on tasks in Boho is convenient.",
+  "The reviewer's team actually tracks their hours now using Boho."
+ ],
+ "4a87790e06e087c92467df3e84a4c96d9c9fb434a6c1d5a8bff91ebb00cf4c50": false,
+ "b0e0722d6fb9925fbe13d43fae1089d049a78661224747e74ab0da0c20083013": false,
+ "a5d3295a828e92df214b6af30d33d0e077d46b31be9304ba38e17c34d65caafa": false,
+ "9cee8a044a39485c184bcce3a0439acdd97d8294ef05c0d8e3475d015b93fe42": false,
+ "71b448aaf95e8289de0597af55eb3475626614992699022c15694d78c0790761": [
+  "The mobile app crashes constantly.",
+  "The mobile app is missing most features.",
+  "Support took days to reply.",
+  "Support is only available over email."
+ ],
+ "d04717799c86e8b4f70fc044e3a2889217850c05e827b0effd4690184347087b": [
+  "All task updates show up in Slack right away.",
+  "Users can answer comments from the Slack thread."
+ ],
+ "dd21af3ac32e11774ab4046a9f274d6987812dd876c81466e0347dfec73011e8": [
+  "Boho is a project management tool for small agencies.",
+  "Boho features Kanban boards.",
+  "Boho features Gantt timelines.",
+  "Boho features branded client portals.",
+  "Boho includes built-in time tracking.",
+  "Boho allows users to assign tasks.",
+  "Boho allows users to set due dates and milestones.",
+  "Boho allows users to attach files to tasks.",
+  "Boho provides clients with free logins to approve deliverables.",
+  "Timesheets roll up weekly in Boho.",
+  "Boho integrates with Slack.",
+  "Boho integrates with Google Workspace.",
+  "Boho integrates with Microsoft Teams.",
+  "Boho has iOS and Android apps.",
+  "Boho costs $12 per user per month.",
+  "Boho offers a 14-day trial."
+ ],
+ "4114d1bc845339ff505f8061bb339c918299a38dcdb6e19a79fc0099c838ee12": false,
+ "e964ca8c4554ee55ff7914a30b971dd3dcb3aff96b05299607bb3d5483d6891a": false,
+ "6d952475620f9a394bb37e0c744cc6ad2cb08f5cd0c703d7f87c41e67c92c2d6": false,
+ "4e8495b8fb3ee081e9ee0c6c56aef7dafe216b124219b2949658b4a59eee9694": true,
+ "2cf2023afef272e56806703cb637182bf63f4604fa18b64a82e1d4df0abd3e1d": false,
+ "ac08eee6f56cc8e1d330a8133bdb212ba934c10d014c1c3e109e36293f4c9def": false,
+ "8e4734a94f595a8b3215e28b2a1088e6b6e4a10ca15de2ca18161e3592cd068a": false,
+ "4d495d592927ab4ce743b45025787afd7a7ee608869f41c4dc9e4c3325630006": true,
+ "d4c3a7b4c1d5ce8f0be78b82a4692e43ecd521d978e3f904fded64808070671c": true,
+ "792787069a9a1c2ebd152ed0e9d050d43fac7d308ac3b9ec25d452468c9fb987": false,
+ "0e9be9c8efe7631eaaa99bd0f9392bb501fe1444ef7e8f90c13e52c8c634395d": false,
+ "5dedc40bb53eb3fc594eee676477c4e932cd0af217ccd0ac893970248eb45662": false,
+ "3ddc8b3ca1a9089c9597aee833f0a7fc4b478c1d11a8b7494769c26e4c36e703": true,
+ "9715b1fdb54ac026ffe6ac85c839e5a74804f71f071a1198ce8e9038a3065b53": false,
+ "18d4f610340dadb18605285849112447674fe7c9ddfb42bbe38ab6c15366a822": false,
+ "e15ca28d64c060d27689a37a17641b3bcc4072aa99f5c51b93c0cfadd8b1d194": [
+  "The workload view shows over-allocation per person.",
+  "Users can rebalance workload by dragging tasks between people.",
+  "Retainer budgets can be capped per client.",
+  "An alert triggers at 80% spend of a retainer budget.",
+  "The audit log only keeps 30 days of history on the Starter tier.",
+  "The 30-day audit log limit on the Starter tier caused an issue for the reviewer during a dispute."
+ ],
+ "ad38e3eaa9fb3b41bcdb911ca05a0b5f5fb72dc5333e04bfe2acbb130fba23dc": false,
+ "7d70abf038db7c776f98efc2a9da7de9aca6932f0897eb5b3ac54e99f0a2c6bf": [
+  "Okta SSO is available only on the Business plan.",
+  "Tracked time exports directly into QuickBooks invoices with the client and project mapped.",
+  "Users can select EU data residency at signup.",
+  "The reviewer's German clients required EU data residency."
+ ],
+ "fb18b658913a04b48f443a413d45cb685fb7a29678cb63b7c3e85e86218ec92d": [
+  "If a task with dependencies is dragged so it crosses into the next month, the dependent tasks do not move.",
+  "Dragging a task with dependencies so it crosses into the next month creates a silent scheduling conflict.",
+  "Two-factor authentication is mandatory for workspace admins."
+ ],
+ "1fec4de6a8b59f87f6bd3b0009570c7f7328fb9611bedcfffbfb4d0806ab2204": [
+  "Automations in Boho are more capable than they look.",
+  "In Boho, users can build rules such as 'when a card moves to Review, assign the account manager and post to the client portal'.",
+  "Automation rules can chain in Boho.",
+  "There is a per-workspace limit of 50 rules on the Starter plan in Boho."
+ ],
+ "a0b652f8a63b7b941bc9f4dcf089fd8a6f284c031dbef101b410bf388c16a850": false,
+ "f3554a45f4536ed57365d2699986cde6fe50fc56b8ea4894b0d13a877013b5ed": false,
+ "2102def3fcfbf70908509a4d42f06872fcfd4e9e2ffafaa5f665f3753c5952cd": false,
+ "a2c9bf7caea2b3287cf1dd6f0c88c3088748b8c1fe982e3488b087ccebf807c6": [
+  "Boho is easy to use.",
+  "The Boho interface is clean.",
+  "The reviewer's team needed no training to use Boho.",
+  "Boho's timeline feature allows users to save a baseline.",
+  "Boho's timeline feature allows users to compare planned versus actual dates.",
+  "The reviewer's clients constantly ask about planned versus actual dates."
+ ],
+ "32c507a0548de0c4ee753910ca5781b2ece4b396d3798a8efd171c854ae66a5d": false,
+ "28ab1dbbe065981c885aede55e83a03e5eca4e5203cb94c45409046b027acd18": false,
+ "e490b38d7737f11b275a97705f4c74a2235f890fcc83c68dee7a7e7f79fb0062": false,
+ "ebf2b764f315a41f3d061f68cf8beee680ad94e46e2c2ed2831f6a8e56c8fb9a": [
+  "Support is email-only.",
+  "Support is slow.",
+  "The desktop app has an offline mode.",
+  "Edits made offline in the desktop app synced cleanly upon reconnecting.",
+  "The desktop app provides a conflict prompt when the same card is edited by multiple users while offline."
+ ],
+ "a94aece2e3f6f69c73a3baa2f2aa29bd5ac2c4775dff59c7d4de8ce5b50fda78": [
+  "The reviewer considers the product the best espresso machine under $500.",
+  "The pressure profiling produces a thick crema.",
+  "The steam wand is fast enough for back-to-back lattes.",
+  "Descaling takes ten minutes.",
+  "The drip tray fills up quickly."
+ ],
+ "858bebffcf8d18d7acb7186ebaa2ddcfe92ea9ea2b786bbb4bdaae243fb1533e": [
+  "The reviewer hiked the Tre Cime loop on Saturday.",
+  "The light on the peaks at sunrise was unreal.",
+  "The rifugio served the best barley soup the reviewer has had.",
+  "Booking the cable car early avoids the queue."
+ ],
+ "7e1eee8b935cd83a6431e41800e535a32a0ba021eef056aead837b3dfc72c352": [
+  "Bulk fermenting sourdough at 26 degrees for five hours worked for the reviewer.",
+  "Shaping sourdough tight and retarding it overnight in the fridge worked for the reviewer.",
+  "A dutch oven preheated for an hour gives a much better ear than a baking stone when baking sourdough."
+ ],
+ "edec126ec7a771007ce3e5e8b2e3457a469a5a87845610ed529420d36f76d598": [
+  "The sightlines from the upper tier of the new stadium are terrible.",
+  "The stadium concourse gets gridlocked at half time.",
+  "Stadium parking is a mile away.",
+  "The old ground had far more atmosphere than the new stadium."
+ ],
+ "2ebfce745be7f58cd6d1ffa5385a914309f8fa0e5822b6ea713cc9b16d2202cf": [
+  "Boho is super easy to use.",
+  "The UI is clean and simple.",
+  "Nobody on the team needed training to use Boho.",
+  "Clients like being able to log into the portal to see progress on their projects.",
+  "A ramen place that opened near the reviewer's office serves a fantastic tonkotsu.",
+  "Lisbon in October is the perfect temperature for a conference."
+ ],
+ "051ebb23f0a298ce0a2312096afc5b46bca101a3281d6cef4945fdcc2e1e7dd6": false,
+ "e3faba7ea22121931e199fbc27d95f246f06089049091865db505a8546b7969c": [
+  "The mobile app crashes constantly.",
+  "The mobile app is missing most features.",
+  "Support took days to reply.",
+  "Support is only available over email.",
+  "The reviewer's new running shoes have a wider toe box than the previous model.",
+  "The foam on the reviewer's new running shoes feels bouncier over long distances."
+ ],
+ "7ac3e7943c0f557602c5672d7a239f3ce81be739a9da35fbd1ca48f664e49c65": [],
+ "f8e95d0fae5cf78dc9f62bc5ad4b9aa536b046eab6bbe2acd3fe19ef81b248c5": [
+  {
+   "text": "Boho is project management software built for small agencies.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho allows users to plan work on Kanban boards and Gantt timelines.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho allows users to share progress through branded client portals.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho includes built-in time tracking to log hours.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho allows users to assign tasks, set due dates, and set milestones.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho allows users to attach files and keep comments next to work.",
+   "on_topic": true
+  },
+  {
+   "text": "Clients get free logins to review and approve deliverables without buying a seat in Boho.",
+   "on_topic": true
+  },
+  {
+   "text": "Weekly timesheets roll up automatically for billing in Boho.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho integrates with Slack, Google Workspace, and Microsoft Teams.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho offers apps for web, iOS, and Android.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho plans start at $12 per user per month.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho offers a 14-day free trial with no credit card required.",
+   "on_topic": true
+  }
+ ],
+ "d4b5c270cc36697f64a46119dad6f1c3f5e487d1bb5349ed82744958565dfb9a": [
+  {
+   "text": "Boho is super easy to use.",
+   "on_topic": true
+  },
+  {
+   "text": "The UI is clean and simple.",
+   "on_topic": true
+  },
+  {
+   "text": "Nobody on the team needed training to use the software.",
+   "on_topic": true
+  },
+  {
+   "text": "Clients like being able to log into the portal to see project progress.",
+   "on_topic": true
+  }
+ ],
+ "cb49bd27b3424bf4c6eae770a45e257e4b4a15be405dac8653f10d391dc24e36": true,
+ "694f475c41c5ad976d0cd645155f72d61f2e2cda21e1564fb3feb8e8ba03a7c2": true,
+ "b74dba0435cff30d7d1a1ce139d4561ff18e25d33d55f4847cd49169e6f5bdfe": [
+  {
+   "text": "Boho costs twelve dollars per user.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho is very affordable for a small shop.",
+   "on_topic": true
+  },
+  {
+   "text": "Tracking hours directly on tasks in Boho is convenient.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer's team actually tracks their hours now.",
+   "on_topic": true
+  }
+ ],
+ "72fca29617970bc931d0b94429296f1615c55830be0e7ae8260c102c6e3d5f23": true,
+ "4a672153f90d99911efaed41305c58cf3118430540a2f237cbfb891f133249f1": [
+  {
+   "text": "The mobile app crashes constantly.",
+   "on_topic": true
+  },
+  {
+   "text": "The mobile app is missing most features.",
+   "on_topic": true
+  },
+  {
+   "text": "Customer support took days to reply.",
+   "on_topic": true
+  },
+  {
+   "text": "Customer support is only provided via email.",
+   "on_topic": true
+  }
+ ],
+ "1c42170d6ec89b4a4b06c24f17d25f1f3c3f982ff9fdf4a4d4c846e58e58553e": false,
+ "097eb5262349e48e20a8fff443d80a908ec63b6e47e91ab834c6c818dc8b8cc6": false,
+ "3f53ee12853e2501c2cd2cab4716268e25771f774e630e280e2ea6b0fc492dc6": false,
+ "88aa21661328388840ea9d435a4e6993bc603d957d6128f181818afa4a24ec76": false,
+ "26d6edefd8506fb462f2ec6a4839af348a6ca774a1b899542519c29df32dbf66": false,
+ "293c5a7ac21d18d2462760b6836cfc8c6775f9f2f8c6b0d6eeeeb8a6fa9eb5a7": false,
+ "088ab66b5b1941dcd6a7b8750ab37f5ab1a9cf6763bfe388ce412b2584edb1bf": true,
+ "e46ae742573727c04061597449f99d93cbb1ca16fd8aeb2ff21161982b0612f4": true,
+ "a8dac7418e8765069be841ba08e65ce850a451421fff03a4361db86e6230834b": [
+  {
+   "text": "All task updates show up in Slack right away.",
+   "on_topic": true
+  },
+  {
+   "text": "You can answer comments from the Slack thread.",
+   "on_topic": true
+  }
+ ],
+ "294c6ae0b279811ced67940a2a59d4970e79fef3b18ea6e2f44cf811e5e3b5ba": true,
+ "24465ec8ebbf2ea2916841ebb9a7c70afa354c2c65ab34f9d658c9453290ffd3": true,
+ "112a1c69ed7c2f6f622d1d8b5452fbe1ccfd19a1771df5ae0d9ebbf9749ed23e": [
+  {
+   "text": "Boho is a project management tool designed for small agencies.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho features Kanban boards.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho features Gantt timelines.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho includes branded client portals.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho has built-in time tracking.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho allows users to assign tasks.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho allows users to set due dates and milestones.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho allows users to attach files to tasks.",
+   "on_topic": true
+  },
+  {
+   "text": "Clients get free logins to Boho to approve deliverables.",
+   "on_topic": true
+  },
+  {
+   "text": "Timesheets in Boho roll up weekly.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho integrates with Slack, Google Workspace, and Microsoft Teams.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho has apps for iOS and Android.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho costs $12 per user per month.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho offers a 14-day trial.",
+   "on_topic": true
+  }
+ ],
+ "a3c5ca8308d66c83c970e55400a43a422656ed1ff494f65f9546f626d998c61c": true,
+ "4976790a2d1511176bec09370571afe338562041be4f26b9b431a433534bbc72": true,
+ "8b87af3c902ca321abb3ca3d589644d6f92795f7af5c3ef0c02753f3a278d6bf": true,
+ "3640af0d975f21dbb7acd4ea74abcb82d0fbf955343b59432b13698678bca659": true,
+ "265d62f66a1accac43c672532f551d49fedcca1dc2b484b038a1313f61a9d579": [
+  {
+   "text": "The workload view shows over-allocation per person.",
+   "on_topic": true
+  },
+  {
+   "text": "Tasks can be rebalanced in the workload view by dragging them between people.",
+   "on_topic": true
+  },
+  {
+   "text": "Retainer budgets can be capped per client.",
+   "on_topic": true
+  },
+  {
+   "text": "An alert is triggered when a retainer budget reaches 80% spend.",
+   "on_topic": true
+  },
+  {
+   "text": "The audit log keeps only 30 days of records on the Starter tier.",
+   "on_topic": true
+  },
+  {
+   "text": "The 30-day audit log retention on the Starter tier caused an issue during a dispute.",
+   "on_topic": true
+  }
+ ],
+ "6ee9be340d66e1df7ab67cc62230ce849a5198ba8aa15bbafa3c5714cc9ad4c2": [
+  {
+   "text": "Okta SSO is available only on the Business plan.",
+   "on_topic": true
+  },
+  {
+   "text": "Tracked time exports directly into QuickBooks invoices with the client and project mapped.",
+   "on_topic": true
+  },
+  {
+   "text": "Users can select EU data residency at signup.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer's German clients required EU data residency.",
+   "on_topic": true
+  }
+ ],
+ "bd4b2fbe8ddfca1f89c4dd61e878a895914fcb820b7f97051639314cb3df8bea": [
+  {
+   "text": "Gantt dependencies break across month boundaries.",
+   "on_topic": true
+  },
+  {
+   "text": "Dependent tasks do not move when a task with dependencies is dragged across a month boundary.",
+   "on_topic": true
+  },
+  {
+   "text": "Dragging a task with dependencies across a month boundary causes a silent scheduling conflict.",
+   "on_topic": true
+  },
+  {
+   "text": "Two-factor authentication is mandatory for workspace admins.",
+   "on_topic": true
+  }
+ ],
+ "18069fd661843cc5a14d8b7c278f3c38ed0eaea1ce2b66617a25035fc631a8c5": false,
+ "4705fb111c31454b6cb22698fa650e223a2a99c145390c6e04ad64fbfbab1bb5": false,
+ "b54e37210305fb3108e609c93dd93a0b3c59d22d4499b0f618ef4f63935d3dc7": false,
+ "423325227aff2961aa3bf9da8b1a969a4149a8290e075b99f466850b43fc1cbd": false,
+ "f56267d00ec16e7e92a862471c78f149da5a856ee9bfde30f1f77db654c20d17": [
+  {
+   "text": "Boho's automations are more capable than they look.",
+   "on_topic": true
+  },
+  {
+   "text": "Users can build rules such as 'when a card moves to Review, assign the account manager and post to the client portal'.",
+   "on_topic": true
+  },
+  {
+   "text": "Automation rules can chain.",
+   "on_topic": true
+  },
+  {
+   "text": "There is a per-workspace limit of 50 rules on the Starter plan.",
+   "on_topic": true
+  }
+ ],
+ "960f607b2e5bf76a62e1668a9c9262bfa15969f4541e32045462b8203ee5a8d0": false,
+ "ab9972bd0115f59914b8fc6232bd52ab2b3da6885c99fd9d0675c573b0325d42": false,
+ "0996ea100eab47afa390f6b413a5e8bdbdae9332f80dd8c030812eeb2a9a1d00": false,
+ "7eb48a5e4355fe54b197594ae5f1686f1319fdb4bc0c44c788de392cacad68b9": [
+  {
+   "text": "The product is easy to use.",
+   "on_topic": true
+  },
+  {
+   "text": "The interface is clean.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer's team required no training to use the product.",
+   "on_topic": true
+  },
+  {
+   "text": "The timeline feature allows users to save a baseline and compare planned versus actual dates.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer's clients constantly ask about comparing planned versus actual dates.",
+   "on_topic": true
+  }
+ ],
+ "90139336f1b2efa3b99e87fd359a69c63a6fe69012ccd62edb453ffeffb019dc": true,
+ "8c5dfdfee2be14ec5e9b4ebf20b9e624c4a21ee85f73929f86abac7549198371": true,
+ "673fc6850383f83212effc3c2e6d189d3a54a1b97be36aeedfa1ec3084abfeb3": false,
+ "75a99680429aa81be324035aaaf990cc711b795420372590edafff0d17474e1e": false,
+ "04cb4318fc3afc32319521c19bebe90f8d5f5a09e964f7a96e4b8d4a462b5ea9": false,
+ "088fa8bea9639fd6a101f4c3b6fb0dc134f6059ef92751bab0e89c71969fd104": [
+  {
+   "text": "Support is email-only.",
+   "on_topic": true
+  },
+  {
+   "text": "Support is slow.",
+   "on_topic": true
+  },
+  {
+   "text": "The desktop app has a proper offline mode.",
+   "on_topic": true
+  },
+  {
+   "text": "Edits made on a plane synced cleanly upon landing.",
+   "on_topic": true
+  },
+  {
+   "text": "The app presented a conflict prompt for a card edited by two people.",
+   "on_topic": true
+  }
+ ],
+ "b6bf4cc71db81955cf792812ef93671e3dcc953873a24da65f1494bde04ee0b5": true,
+ "535d81360aa6ea3cf3bed3c449c278c793ad603938482a953ca13b71e8970b2c": [
+  {
+   "text": "This is the best espresso machine under $500.",
+   "on_topic": false
+  },
+  {
+   "text": "The pressure profiling gives a thick crema.",
+   "on_topic": false
+  },
+  {
+   "text": "The steam wand is fast enough for back-to-back lattes.",
+   "on_topic": false
+  },
+  {
+   "text": "Descaling takes ten minutes.",
+   "on_topic": false
+  },
+  {
+   "text": "The drip tray fills up quickly.",
+   "on_topic": false
+  }
+ ],
+ "197e3a89dff6bde545be291617cce57d303d34f3bdf0094d5454346a22c18477": [
+  {
+   "text": "The light on the peaks at sunrise during the Tre Cime loop hike on Saturday was unreal.",
+   "on_topic": false
+  },
+  {
+   "text": "The rifugio served the best barley soup the reviewer has ever had.",
+   "on_topic": false
+  },
+  {
+   "text": "Booking the cable car early avoids the queue.",
+   "on_topic": false
+  }
+ ],
+ "bd0c77c435c7a4857fe9f76c6331f9901ef8cf7d79e156a0d3775dc2263a33d5": [
+  {
+   "text": "Bulk fermenting sourdough at 26 degrees for five hours yields good results.",
+   "on_topic": false
+  },
+  {
+   "text": "Sourdough should be shaped tightly and retarded overnight in the fridge.",
+   "on_topic": false
+  },
+  {
+   "text": "A dutch oven preheated for an hour gives a much better sourdough ear than a baking stone.",
+   "on_topic": false
+  }
+ ],
+ "f53ae567ee6c3c4777f5a414a54bcc8bd632bab3b382d07b893ec85b947b5123": [
+  {
+   "text": "The sightlines from the upper tier are terrible.",
+   "on_topic": false
+  },
+  {
+   "text": "The concourse gets gridlocked at halftime.",
+   "on_topic": false
+  },
+  {
+   "text": "Parking is a mile away.",
+   "on_topic": false
+  },
+  {
+   "text": "The old ground had far more atmosphere.",
+   "on_topic": false
+  }
+ ],
+ "b8ec96a8fa03334b2f2b67876a8747bf7100206511c219d2858de29a0113ba55": [
+  {
+   "text": "The product is super easy to use.",
+   "on_topic": true
+  },
+  {
+   "text": "Clients are happy with the product.",
+   "on_topic": true
+  },
+  {
+   "text": "The UI is clean and simple.",
+   "on_topic": true
+  },
+  {
+   "text": "Nobody on the reviewer's team needed training to use the product.",
+   "on_topic": true
+  },
+  {
+   "text": "Clients like being able to log into the portal to see progress on their projects.",
+   "on_topic": true
+  },
+  {
+   "text": "The ramen place near the reviewer's office serves fantastic tonkotsu.",
+   "on_topic": false
+  },
+  {
+   "text": "Lisbon in October is the perfect temperature for a conference.",
+   "on_topic": false
+  }
+ ],
+ "c42a465cc318959a819838ca58674b898e50b941911c880ec2125c770a2972fe": false,
+ "7339c65732da7b97197201acbb75e1d730347fc631d8346ee9ee2c921ff07295": true,
+ "8006bae690f4e7aaf516d260baff4cea688d9a142a7f2c07f1bcb036037307ad": [
+  {
+   "text": "The mobile app crashes constantly.",
+   "on_topic": true
+  },
+  {
+   "text": "The mobile app is missing most features.",
+   "on_topic": true
+  },
+  {
+   "text": "Support took days to reply.",
+   "on_topic": true
+  },
+  {
+   "text": "Support is only available over email.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer's new running shoes have a wider toe box than the previous model.",
+   "on_topic": false
+  },
+  {
+   "text": "The foam in the reviewer's new running shoes feels bouncier over long distances.",
+   "on_topic": false
+  }
+ ],
+ "0e42d5acb07bd135c6077063518a71e94fdfa24da9a68df4ebecd507f9280253": [],
+ "9c8737112a3c4960a40f38209f033d69564256d4b0542f42471dd32450ca7f9b": [
+  {
+   "text": "Boho is project management software built for small agencies.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho allows users to plan work on Kanban boards.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho allows users to plan work on Gantt timelines.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho allows users to share progress through branded client portals.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho includes built-in time tracking to log hours.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho allows users to assign tasks.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho allows users to set due dates and milestones.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho allows users to attach files.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho allows users to keep comments next to the work.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho gives clients free logins to review and approve deliverables without buying a seat.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho automatically rolls up weekly timesheets for billing.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho integrates with Slack, Google Workspace, and Microsoft Teams.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho has apps for web, iOS, and Android.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho plans start at $12 per user per month.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho offers a 14-day free trial with no credit card required.",
+   "on_topic": true
+  }
+ ],
+ "86e71fe16d51f1fa82893963fe63ea3dcef9d17994306c15efd654b7b2210228": [
+  {
+   "text": "Boho is easy to use.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho's UI is clean and simple.",
+   "on_topic": true
+  },
+  {
+   "text": "No one on the reviewer's team needed training to use Boho.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer's clients like logging into the portal to see project progress in Boho.",
+   "on_topic": true
+  }
+ ],
+ "095a81b83ec8923c1f0b801d180a1830f24ed4b9ce9dfe6a3274f2be2c12e2eb": true,
+ "8dac78c46b7183a83821ca45ac68e0f4edcda440680d758a1062d6cb86d88af8": false,
+ "a414bdbefafea5030f29c4173256562ed276c8d800708c874106519f4e204638": false,
+ "d821c51840d528a13f384f6213a49ed822191ab6efe726313714445b516f90f3": false,
+ "05ce726560faf7544fac74a496c6296fd8a66ce2ba157a2d4f49d814413457e8": false,
+ "a0fd88e25809ecb77cb133f6df2d332aa1369b9fe516f0ef60dcf3302b8f28ad": false,
+ "9f99822c9dc401ed097b24cb13518d9c1f6638a012c5779ef0ba4078f48c0858": false,
+ "9795fc61d270fabc06f97bc20bff034cce33dc36366c1334ee5bbef826a68ccd": [
+  {
+   "text": "Boho costs twelve dollars per user.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho is very affordable for a small shop.",
+   "on_topic": true
+  },
+  {
+   "text": "Tracking hours directly on tasks in Boho is convenient.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer's team actually tracks their hours now using Boho.",
+   "on_topic": true
+  }
+ ],
+ "c787a190768a95f3d3c16eab3822064e4007b8b1e2acf15b1e55697153d24a92": false,
+ "f1f3030c72eeeef5cb82aa734cf460b2ce5ba60c65ba2f7192b500245f303bcc": false,
+ "aa57cf6af145fa1e037ad0c44c27c3dcc9b9da845adb3616abd11e48c8b94753": false,
+ "98210e2c109fc91654d18d712d5e98379f41706ec80ee9d4e485a9420fb1b896": [
+  {
+   "text": "The Boho mobile app crashes constantly.",
+   "on_topic": true
+  },
+  {
+   "text": "The Boho mobile app is missing most features.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho customer support took days to reply.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho customer support is only available over email.",
+   "on_topic": true
+  }
+ ],
+ "be470af94cb1a4225697ae8726ea331ed659b4e0a51513f25bffc13a61f9135d": false,
+ "9c1c744098b3342fe6c97d4982bb3df9c125d5ab84a1604f1f1aee5d15fa806e": true,
+ "575663083d466a0d8789b7c167b318d47ffeca6d9587b1bcff0dbff43d2a5a7f": false,
+ "229112452d4043a9e396da73c7bb28a0d056aa030681a5e5b376a083c073c0fc": true,
+ "651d4d183759224d8a70ce60bb473169ca586386a59ed007c448c960c5e3c540": false,
+ "60a41dd3aa7f9089ee8d7ea75afbde1b94e388d43b7bf3ef796062e59f1f97a0": false,
+ "32fffe1d5b9d4ee1bf7ce3a97dba80fd0e34c8662831961591f9dd1507e1c2bc": false,
+ "ef061588887f437aae2101037f2466ef32627e042b50ebc89f968b2c2d7c6f9b": false,
+ "19392cb26085b1ba04b4517fdd7b42d5ee7dbbbbccd506a63e644dcf9a582163": false,
+ "c7c07302f1c0bf54c75087a72e67389a26745e2a564d57573d9fabd5e9e8433f": false,
+ "dfdfde25b5f30ba29cbfee3d4d29a3a3361f6b5d8e9a1777286ef563cdddf6af": [
+  {
+   "text": "Boho task updates show up in Slack right away.",
+   "on_topic": true
+  },
+  {
+   "text": "Users can answer Boho comments directly from the Slack thread.",
+   "on_topic": true
+  }
+ ],
+ "ad19be622d817d42d2593e348091c3c04ef19dc5493b3ca33390f6df74781a35": false,
+ "5353ea917ef30b3a474175c955d0b2b8725072ca4ad43c0bf5b0438244ce2f28": false,
+ "174764308cc475dfb6b97b39676aa5f87222e6c49eded1b6c5bb360912c53feb": false,
+ "80f8c4da9986a934848db6eb1d4ec1147b103a7797728dbf322892a637eff758": false,
+ "0e34a330367930eba005d044f3945f94fdecdea9cf28de621b9db6969685c95b": false,
+ "ad045cdf51819ec70a39bfc952162167170fa89d41a3cd83a0ba2ff8d16f0dd7": false,
+ "1daa22ae319f5c3b86bc77d0aa0326638c1a790e5ab68afd1431b61b4ed8a95f": [
+  {
+   "text": "Boho is a project management tool designed for small agencies.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho features Kanban boards.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho features Gantt timelines.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho includes branded client portals.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho has built-in time tracking.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho allows users to assign tasks.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho allows users to set due dates and milestones.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho allows users to attach files to tasks.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho provides free logins for clients to approve deliverables.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho rolls up timesheets weekly.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho integrates with Slack, Google Workspace, and Microsoft Teams.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho has apps for iOS and Android.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho costs $12 per user per month.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho offers a 14-day trial.",
+   "on_topic": true
+  }
+ ],
+ "b39a6b68c8f39ee2e293cf0058e583978ca169844244d4bd47fb2dc12639e60a": true,
+ "98b55b0b7eff4e29350409e27f81023e42eb4570ce1a65d197fb32f02973ea49": [
+  {
+   "text": "Boho's workload view shows over-allocation per person.",
+   "on_topic": true
+  },
+  {
+   "text": "Users can rebalance workload in Boho by dragging tasks between people.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho allows retainer budgets to be capped per client.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho triggers an alert at 80% spend on retainer budgets.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho's Starter tier only keeps audit logs for 30 days.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho's 30-day audit log limit on the Starter tier caused an issue for the reviewer during a dispute.",
+   "on_topic": true
+  }
+ ],
+ "8e1df62bd9b3344df53071d56c7b8c3d028afc6b9aba0d6c73e8eb43d10de8ff": false,
+ "51ca69871a9d6654bf7b3104713d909afa0d8e7ec6e85281fe0f06016b391f63": false,
+ "b8d734448336a99807b305b7063b782a0295ae3c2652d0fe01976eaf0ab881f1": false,
+ "6c622656ffb113f752215c7aa7a383da89a8b5502dd7273c48c2597b9b5086a4": false,
+ "5081db3c3cda6bcc1f27cbdd30fd19a0affa7363c498fe8381adb2128dd2fd2d": false,
+ "49bcd2cdefe87a7c0e5fe8e92933e814d63d68a0c7acbce935727757c3dc636d": false,
+ "19e3c1f758d620658bac943869fcf2d2abf4aecdbf196e4202b15b1a47850418": false,
+ "57250f992edf06629ceaec94a2399f1af8515d08c24f611a276723637235d804": false,
+ "22ef09ab8c759114edd53c71b535b9097a919ac0ca498cccf9db34d3963fb147": false,
+ "b6951356e1b2cd77c491d2df6e824dc2315422db0f3ff09f818491fde1a2f864": false,
+ "b77ce5c4c51eab6ec6fdf7076c5ad18f1749c09d78d10f59fbf65c61ed11a4ff": false,
+ "43db9e6632d5b983eea9e180206a782fca52574075b3b6b0b8d3605aa24b363a": false,
+ "53d07e598e5b48e5d66fdef0994eca9bf0e1574733e0b3d4d6f98f922ba57b67": false,
+ "2e9650b448347e548b9aefaadfcc383e2ad057a76cd83aabb32db14b522270ca": false,
+ "f4669c18ac5c398193dbee2910aa1b599ef9f2610c882abb3194633b49d847de": false,
+ "d972b316f776f787940eea8ad06ba137aa3a9365d70cb84458f36eaaf105b659": false,
+ "11d3856fe5cb28de217d9ad6dcd90718700f5374b5fbe140c2d5e20353353be8": false,
+ "2ee4ff6828b92c2a56783bd475130961e2b5c6fe993649d27050e34c36d99dfe": false,
+ "ee21e5bd1fd432b2687512cb6ab7fd43157ea8e33b817cfbf3e3a645ad14008a": [
+  {
+   "text": "Boho offers Okta SSO only on its Business plan.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho exports tracked time straight into QuickBooks invoices with the client and project mapped.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho allows users to select EU data residency at signup.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer's German clients required EU data residency.",
+   "on_topic": false
+  }
+ ],
+ "ea65b404659596f469be421d7fc223bfe176b72eeeab6b4a5ae6e8a71fe32938": false,
+ "86ba31e7968ccf620608ee02239dda53a72adab74940e85abb072105262ac315": false,
+ "026ad78732ffe730b6f31bdd04cf7992bee09b5a06c929faf1309ad3dbe34cfa": false,
+ "81af4a764b8f23d462c4a0aacd25b796042c19408dc8d79c3650faca80749ce4": false,
+ "95e1585eee9e1f11d7561c27f090a2604529e98841aa65f72f6c9f9dff352f86": false,
+ "cccfbf178ec78f12a64dda3c9dac45480a4d6746293ee6d4147cf69db7874902": false,
+ "ba3342579018165f3d6474e5ebb67a03145b858789aaf2f2efa6e6d8f8e8558e": false,
+ "ce000aecb74cf61eb354729583e14e0d7649d92e5439e2e3fd7d3bdd0d457411": false,
+ "4e99c8fbdce1060b9f0506a82b808ffee5c9cc68d1725f292438289748a27045": false,
+ "86709fd301c91b0e3308e8b54f383fbc44ec91756c67bdf4ffa7a2355730bdb5": [
+  {
+   "text": "Gantt dependencies in Boho break across month boundaries.",
+   "on_topic": true
+  },
+  {
+   "text": "In Boho, dragging a task with dependencies into the next month does not move dependent tasks.",
+   "on_topic": true
+  },
+  {
+   "text": "In Boho, dragging a task with dependencies into the next month causes a silent scheduling conflict.",
+   "on_topic": true
+  },
+  {
+   "text": "Two-factor authentication is mandatory for Boho workspace admins.",
+   "on_topic": true
+  }
+ ],
+ "10f5bf81edeb701763f31c76d224c11bf12998479ec2df67e67073143b9b2bbe": false,
+ "91cd36185ba684c8a252b7f722d694db80ca5f50a147937747e38fec1ea5612e": false,
+ "80d35583f920bb7e7575b73a345f68a6eabb78d25521107db9934fe65d9faac6": false,
+ "4d071f1a28ff3aeebd425ac2416c23c573832479d5553b4e18f17f6a7005ef85": false,
+ "b36df76063498e0328d803e8ba997eef49746779a743763a9221d88e3de608f3": false,
+ "944cdb6904dd4c5a666c82bc81568d3bd303b33dcc5eed3e962692bd4cf483f4": false,
+ "2789eeee21c0dd1340d46982c4e4bb0ab1dc1387784d7f0d4771590ea0e31e95": false,
+ "a57f88d23514f34579844f184b187b45e87ce6771ddc04ed352496bb4ab09fed": false,
+ "2a5b946059c72731ea11327a9b054e84511d001eca064d061e3279d4d05ceb38": false,
+ "f50e9d54b432edba2bfe436fe5a76c9958fcf3284168107fdb247d3b6e448bfc": false,
+ "1cbd539868a16030fa615de39625abb0aab11f4dab0ec28dad11c19cc9c19e58": false,
+ "bf7bccf7c24c5806391d0714b83023aa290c3d83acee233897d50945a6fabf72": false,
+ "1cc2bde53567f9ee445a85bf1cf8b120b632f64fa68a04423e684495e85f6151": [
+  {
+   "text": "Boho's automations are more capable than they look.",
+   "on_topic": true
+  },
+  {
+   "text": "Users can build automation rules in Boho like assigning an account manager and posting to the client portal when a card moves to Review.",
+   "on_topic": true
+  },
+  {
+   "text": "Automation rules can chain in Boho.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho has a per-workspace limit of 50 rules on the Starter plan.",
+   "on_topic": true
+  }
+ ],
+ "1427d31e8aa89f497c74f6cde3fc8aafec44f3c483312c672836dca76f0b3bbd": false,
+ "9bf8a2b7a6559388313e96f7785a54dd6cb9bbe97814b766699436a40bfe7dee": false,
+ "df18458fc4f799689d43c3a2fbc3cfd4add618a263207e5052d1ebf71f1a849a": false,
+ "448e0b90765f3bf7489165206ce5da062dda3f4b144214c7b2a3d305bea6bfe9": false,
+ "92026df7dc60cd7cfaf4770051a749f2d53c848c3d33eb68d744a05dccc58245": false,
+ "6dac55c641189611d1fd849a3cd69d75475eb566c95aa301b084e961bd2ec630": false,
+ "3ef40d4593a04968be5a00babbaee0ab7259084820719d09add9a7335e3089b9": false,
+ "9b9f75b7a2416ecde2750d38e94c8dcac6a8ed77bd5c1ddc0e41f1c2ea8225a1": false,
+ "1ae1827a9c6c5d85f4e15eb6a74732dbc17891a648a12ef74c337104e3d7b3bd": false,
+ "c9056624bd688b835c5bc32e3ac567aca3bd09a7c5c51ed718d7e439fead3a39": false,
+ "f5f27072873c2ebb8abfc7af9cfe78633b04fdf611ae03afa672b0e67ad55e5f": false,
+ "fb57899cf3f8e696ff695043fe3ae2dd17c54ed6427cb5c99a84098b3e50a847": false,
+ "04c33427d184a43aecfd2da637692398129715eb5dbd9d58c80df7840406dd79": [
+  {
+   "text": "Boho is easy to use.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho's interface is clean.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer's team needed no training to use Boho.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho's timeline allows users to save a baseline and compare planned versus actual dates.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer's clients constantly ask about comparing planned versus actual dates.",
+   "on_topic": true
+  }
+ ],
+ "599d0d9828348dfe48f3f2e52d05df642753851c7301dfda57fdc74bc5700505": false,
+ "bfcb7410fe6fc693f3985e9060348692b893b4024a8ea5411b705b03b7e87085": false,
+ "8e14b98d3a44d95a3f8f9dd6ca7f25b75650e2e0f7d137dac107fab368800cb2": false,
+ "b5e704569f032173d561896de3a29cac559e57210a6e0ba9a4309e59b3e0860d": false,
+ "fc9f053416a9218e2ecdfb20d4cb0b9b961ab260df5bb9ede9cb0de8f36fb53f": false,
+ "a65df0969bf1c44474188257463e46139ff1d2325a0e88ca472bbf1072baa9b8": false,
+ "14076e56194e32689b931f2e8317889ce71e3db568f4e0222f79413fa9a15591": false,
+ "ea74816c32d5dce245f32344bc4add878fb82f2f49d57cc80bbd8345aa74cf08": false,
+ "642b5864043f473539271c713657904b6cdfea415112397478841badf7290fd1": false,
+ "e4908a376b07b305bac90a77f7fc8c8a43f56469ccfa9636cbd21780cd4022c4": [
+  {
+   "text": "Boho support is email-only.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho support is slow.",
+   "on_topic": true
+  },
+  {
+   "text": "The Boho desktop app has an offline mode.",
+   "on_topic": true
+  },
+  {
+   "text": "Edits made in the Boho desktop app while offline on a plane synced cleanly upon reconnecting.",
+   "on_topic": true
+  },
+  {
+   "text": "The Boho desktop app provides a conflict prompt when two users edit the same card offline.",
+   "on_topic": true
+  }
+ ],
+ "7e965def91f2fa42769c3c8bfd90ca56ae6bb58e5fa87c4916bb3e895f7e8c30": true,
+ "9e9ac366e993327620da126533c020482260fccbc240fe77b80bfdf4507164f4": false,
+ "8b9ce072c9bba9550845b00104625138333a7ebe88ad149e4c7df1e9640fdfe9": false,
+ "d75ce5211cb4f14165822db0482b51cfc93557e83954919521cd9eeab3f1a35c": false,
+ "961625e19a9c4ad52be4f8cd280ad63b0468ff1a397f9ed1e77e0e433ea85a88": false,
+ "db65ca8399faf47f557e39109a3c11b352c1072fb19af3dac782d3a6cd5462b8": false,
+ "a646e65c5f0f86abbe6aab4f38f6d82954d31ba67ecf5c3110425ecfe9643d10": false,
+ "b521aab1967a56ac3593feea9f1cfdee1f215e40f2018a1eed1974bf31514420": false,
+ "da469eb57d2982a2689ce9efad8015b00ed264d0106c6b58511fe22a39c56a81": false,
+ "07fc514defdc497b3aa160498811b1e7aaeb190f67abdba2f03d285e4bafc2ef": false,
+ "410bf6e295e83aedf85e5820deea63f9b3b98f5de826af6dcd6658abce372ee1": false,
+ "7655280ecc0a6fdd0f4e5bc55d50bb756714044b40042f7a82ac887682d7d463": false,
+ "28700a3ed79e1727773355629fcf35213c90e50fc58443e1f4c52eeb3cae9af7": false,
+ "af443700ebf59ccddfadec969cf913f11134abb86201de2d6dc7c6f187724e5c": [
+  {
+   "text": "Boho is the best espresso machine under $500.",
+   "on_topic": false
+  },
+  {
+   "text": "Boho's pressure profiling gives a thick crema.",
+   "on_topic": false
+  },
+  {
+   "text": "Boho's steam wand is fast enough for back-to-back lattes.",
+   "on_topic": false
+  },
+  {
+   "text": "Descaling Boho takes ten minutes.",
+   "on_topic": false
+  },
+  {
+   "text": "Boho's drip tray fills up quickly.",
+   "on_topic": false
+  }
+ ],
+ "338dbede92b3df56f9139cd9d288e55cd521cf2b0c987fa50acb3637d626bc00": [
+  {
+   "text": "The reviewer hiked the Tre Cime loop on Saturday.",
+   "on_topic": false
+  },
+  {
+   "text": "The light on the peaks at sunrise during the Tre Cime hike was unreal.",
+   "on_topic": false
+  },
+  {
+   "text": "The rifugio served the best barley soup the reviewer has ever had.",
+   "on_topic": false
+  },
+  {
+   "text": "Booking the cable car early avoids queues.",
+   "on_topic": false
+  }
+ ],
+ "32c826e501c6c8b15bfa15efc622ccf1f3e254dcf0e64efe3159e08358322bd0": [
+  {
+   "text": "Bulk fermenting sourdough at 26 degrees for five hours produces good results.",
+   "on_topic": false
+  },
+  {
+   "text": "Shaping sourdough tight and retarding it overnight in the fridge produces good results.",
+   "on_topic": false
+  },
+  {
+   "text": "A dutch oven preheated for an hour gives sourdough a much better ear than a baking stone.",
+   "on_topic": false
+  }
+ ],
+ "eeaff4705e8876e55d72a19b9687e9611bf71d2c2ebfcf3a6de4d49e0b127e19": [
+  {
+   "text": "The sightlines from the upper tier are terrible.",
+   "on_topic": false
+  },
+  {
+   "text": "The concourse gets gridlocked at half time.",
+   "on_topic": false
+  },
+  {
+   "text": "Parking is a mile away.",
+   "on_topic": false
+  },
+  {
+   "text": "The old ground had far more atmosphere.",
+   "on_topic": false
+  }
+ ],
+ "aac58a76504060dfc6544634b73370d426cd95ee4680143fd12769fcfe4c1b1e": [
+  {
+   "text": "Boho is super easy to use.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho's UI is clean and simple.",
+   "on_topic": true
+  },
+  {
+   "text": "No team members needed training to use Boho.",
+   "on_topic": true
+  },
+  {
+   "text": "Clients like logging into the Boho portal to see progress on their projects.",
+   "on_topic": true
+  },
+  {
+   "text": "The ramen place near the reviewer's office serves fantastic tonkotsu.",
+   "on_topic": false
+  },
+  {
+   "text": "Lisbon in October has the perfect temperature for a conference.",
+   "on_topic": false
+  }
+ ],
+ "df878796ffe56e63fdddcfbd02eb5e1082d58587bce1fc4d838d8f260b2a4a2d": false,
+ "b95c0a813c95cb79681db7489d25e78f038b5105d18a56a38684bb8555f15acb": false,
+ "b0f8cba146995df6fc7f8356df026820fc43a2b3ee7d181e5b190c34042db6c2": false,
+ "e89a687d31393c6c8f26a7432876b4fecda50bcc8e852f2da835378633fad171": false,
+ "686ca9b4586badd71b20b6a1e162681e3852778f42c6b72294702a99b4d3c4cd": false,
+ "b666e4c9befff60d26a9cde21613df0edbfdbed502659cedbf96454e9c59169f": false,
+ "8c98df5b0a6afbe86218005a6c2ec63f3bbd4dafb241f701882cd4a167522b28": [
+  {
+   "text": "Boho's mobile app crashes constantly.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho's mobile app is missing most features.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho customer support took days to reply.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho customer support is only available via email.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer's new running shoes have a wider toe box than the previous model.",
+   "on_topic": false
+  },
+  {
+   "text": "The foam on the reviewer's new running shoes feels bouncier over long distances.",
+   "on_topic": false
+  }
+ ],
+ "091724b2a2ff709e21e4faccfd7f703946e07152af411964d8cd9233ecfe8599": false,
+ "25f2f9f59373d1ac9655358d5af4a63643ed177d254f26627c592e179dfb74b6": true,
+ "d8395b5afab2369ec477b21642680b4cf3db6bffa7bd8186ae02750435387f21": false,
+ "b65ba7025c69bc647245a000ef5ac3b1d451e0e1895f208fbb6b518cd3b99474": true,
+ "7190da2886e9159063c84bba97378554644b785f85aee0445e4638ddf255a1b9": false,
+ "6dc5fa35012babbca84fcea387208dc762a3b91dc4fd4b416de19d0f5f989c14": false,
+ "e93ca1f0caa2c3988507f7cdb901bf2faf4063fc8c5642c448d5076c73d9253f": false,
+ "5e715c81ab59dc53b3b495f6cb3323b6b027c2aaa7fda5e8217c53e13e1c36eb": [],
+ "ba55c9d3f95934f41f39fd2e5c7a7a9e29a162b777a3584fcfc17e2097bcf70f": true,
+ "6d8c8ac3a9c4279f00fcffac9f3deed127322e516d83701f25fdc1be5ea87bbe": true,
+ "9e79f482cf3625b58d01b9f65919f1cd905c7fdc286c4a1e14facf6a7e3636e1": true,
+ "850d359505d32a0bde7f408bceb931ce017d2ceb82efa1ba38b3ef9c4c7558b0": true,
+ "01cf87bffa7b5f9ba3d3b6d02a17bd9e39bebc5bf5368d8642c4637d966c4d09": false,
+ "f065a5b470a09a6cc311d80d68d1cb8c12cfe046a6e90a734d2d6703730d3180": false,
+ "a142671c563d07b3ec8e0e6246f485597ddfab23cc2ffc5ba0a60fcd754dddee": false,
+ "96eb8d10dd419eb72cbdd9cb176483dbe41d9f0a3b30f443f935a63a0a939fc8": true,
+ "72a82028f935af2b05553792b90e32ca10534582da2e47d4e8cc4e383efda8aa": true,
+ "e6cf41e59956346f9e46d5dac26585a7a28b62c8e786218dd5884237fd30e89a": true,
+ "207e199e37cf5b9fb3834754004dbad0964a4cf788c74ac018d7a3ec54fc4b2e": true,
+ "449837b6ed8a9abbedcd91e89ab6e1f0b7c8d07db9fd1ac985b1174e2fe0ad4e": true,
+ "4aa90844b22015cfc58b9915afda04a2009886228252e27aec78110c139d8ca0": true,
+ "a7378cdc36c26dec88edf446e5712a5eb869b410676135e5a2a6164afbd85280": true,
+ "0fe0e631a8450d54b0d10b3d4d5fb7266495a5775f292dc9a02ca1e80f9f7851": true,
+ "9038cb9b8346c13a243e7f7a33653a1dd19896b8bf659568ce76b79107b6f313": true,
+ "fc6885ca9ee9e5046fc476bf7c8e2d3b8c170b1591f058a513720360b3ddab68": true,
+ "1bf85460ffe9de101a2781f5b3447c02d8176ad1d1a41f4f525d264657008f7d": true,
+ "fb3b858c3b1de9d46072ced3542d637fe74e5ca0fc810b41d0543ea585b56bd8": true,
+ "8c6c51e33621a59915bbe3125643d925285683d3672ee03964badf02a9e691bc": true,
+ "67d470fecbfa089c84e065092883e46ce1db01f3b3fa6df75162590863c5deff": true,
+ "0ba62c07e4092a845d58f3d71bf9d8b9460eb43b83ed04c1d1ede8c4a15a9124": false,
+ "d638e0783fded734e67c5180ad140c75a04ce57181b3ee4ac6bb28366c3cc3ca": false,
+ "001267a8896cd42a60e38033179919479337d2d57e778cda08ea03b59c0f89a2": false,
+ "675cae99a12cfb73b6ac30b2890dc937ccda04f8ab810f591c11a4d897501b74": false,
+ "443c339779f6287d3608995bd4dad4e2f1830ed65d7b2302ec8f3819005a41a0": false,
+ "0b65d09a62ecf705896776316f9d11ab11bcd0074233175027a9d4f7b5e05573": false,
+ "1ddde9dc2173de680996d404be12116e0ecf8b8adbe6a627e0f820d1f67562e9": false,
+ "0fa2645e3ed71aefd95c6f467a2b52bf7e6d8685af0bdf3fdecc5a6bb8bf3292": false,
+ "ee73c96bde3732820394aabb05ef4e30acec638bb6befc79269ae3c0ff3b74e5": false,
+ "729f786c4f41d5168dc6161310596cba086f262e3c030db958e88f71f3a924ee": false,
+ "2ff7074a04faf002f0b0fddd473ef7254081590edfb25c62fc93c6d9a80b2f93": false,
+ "a8dec7417585aff702de3d96a9338ad0940b82b1b2a7dd9416b74c226b6be19c": false,
+ "fc8df864a616f44a682bf90a4e1d6304631aa1da412e0145ef20d576f2c3b2d6": false,
+ "8124175ad81adaeeb5b8929797bf91137ee0589aa5a06336f96091ba39a9884f": false,
+ "39f8155769c36554bfc7d6c1bbd7a97851a9110da0c902d6703ff783ed6f991d": false,
+ "ad15b297c0db954b40752b60b5272953c6d0f3bbaed7d8a53925d2862a430914": false,
+ "63083912ab4794c936974327fc1a80ca8960150807c85af24c841ab578e7756c": false,
+ "e614d498b15213f93b2ce5d3357e46af2fc61b51c1d22341eb7eab63b7c23b71": false,
+ "e46cd7aceb4e1665b27bb91d5428334175bd2c001392217e9acc8e632d2fd109": false,
+ "a7db02895c6e79c7ca9a85be4a080c419074c01c8b3e72805747094548868a9a": false,
+ "de4046aecfe9cc29b5a77f9ad938740616f21652de0acf78fb7686022210c8b4": false,
+ "81f41511660d0df6d22c712fd24d612808eba0877cf6217be1bfb4b8415c39f3": true,
+ "92afd2c729228d26b7a2454a7f4bd6e0b10e988c945214cc74254ad0e7422d3e": false,
+ "f64bbf7203fa94b52fa074db1941f481e313454e6b59c2259f624f5b53dceafd": false,
+ "6f916f2d506817e2ce9200c2a01e45d163ed6cb846b007d89d932c81e0023931": false,
+ "ce2495cc9321f4658a2037904d2f590f5be1ee43b953de6a50d7b87bf09bb959": true,
+ "6e20eaa966a993c9dc10c89775ffb094a327a6545f3fb9f6bd313f26ac18b054": false,
+ "737dd0e1d87f0fd8f2b31ee1d49c8518a0ab8e0c23e5f16b4e7eebf3094dba98": false,
+ "4b9eb8863b717542be0e490e2bb8168fe0f0c6922255fd5884eb8af91d88cddb": false,
+ "2745082d919470058df3bfe3ba21ade18f6f15c552ff111f88de700d41601314": true,
+ "5a6578bef97cdbd21e56ab361805296100f0e5af38825188dee53a2cb8538910": true,
+ "d579c21e5dc39d39355fabad14182a76c2e723017bf98f20c5a7101fdc1c885c": false,
+ "28f2cb7b1798651c44197708e734d15a8ab4f65c87a7c8eb075ee81b40517c06": true,
+ "d4ec3d6e8c3d3a5a9433e6ce3345163f721505e0e3df0db161be21d9b6f3493b": [
+  {
+   "text": "The reviewer's agency switched to Boho from spreadsheets.",
+   "on_topic": true
+  },
+  {
+   "text": "Everyone at the reviewer's agency picked up Boho in a day.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho's interface is clean.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho's interface does not bury features in menus.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer's clients like logging into the portal to see where their projects stand.",
+   "on_topic": true
+  }
+ ],
+ "2413fe9eb8e14ce119889e3f3e299236de7cb23ccbf3d7abe5e7fe3ef9f206fe": false,
+ "eeaa59cf9e0d09a3585b3420275455d59eac86b804b96ad4d3836314b9ae0c73": false,
+ "13b9a4c1bc26e47a141f1deb56b72e04680a911367a7c9c6e4d6b71f28c269cb": false,
+ "da14b1a73c6a0c499288ef1dce675dc89720aec7f8f2aba7bf80b5aeb502f409": false,
+ "0acf2acf36d1516a7fc81f474b4c0583b5fe378534b78e104a9c16a6f860cfe9": true,
+ "42187c77307a6785f9aae86ed1837b8ab2ae521f8bc53d8da1661c2b3a7af85c": false,
+ "b0e075b279412bcece43169aff69fefbe0ea17dac5f7efb665f9b48765c6a040": false,
+ "2e08e7ddf5562850bab08636e6a3f02bfc0d62a118821df8510793992086bbad": [
+  {
+   "text": "Boho costs $12 per seat.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho is much cheaper than what the reviewer was paying previously.",
+   "on_topic": true
+  },
+  {
+   "text": "Time tracking is built directly into tasks in Boho.",
+   "on_topic": true
+  },
+  {
+   "text": "Team members log their hours in real time instead of guessing at the end of the week.",
+   "on_topic": true
+  }
+ ],
+ "20bc54f6f32259cb26154ef4297d25a0de16d70bbdc1379011be8abddeedec8e": true,
+ "ab44c5b35ed924a70b7f9798a30d40c78e2120ef4a1e231a116aa87312d6e87f": false,
+ "a2ba362d1809c916079b6c907d1cbac33dd7c41230f7c13067c76a68518b15c5": false,
+ "abc4386adc0bb80879121930223d05e4ddd16e507dd4c69427700b7b22f06f44": false,
+ "b74cda4d9319c94c13690f23707fbdec953df5b73660b20829b96db9424bceb8": false,
+ "2c72902097d3f1a9bbf030242bff1d72b5be2573a6bf1ede85962e442be80221": false,
+ "156768d8dc1b7877e72a0f35064c7d07a7a195edb0919753ad00a5ea4730e289": [
+  {
+   "text": "Boho is simple to navigate on desktop.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho's mobile app is slow.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho's mobile app crashes when opening a board with more than a few dozen cards.",
+   "on_topic": true
+  }
+ ],
+ "165684fd80af730f0b026a1e6793b52ecc0699aee2e3665e8c061d888f92037e": false,
+ "afe90fed835e174dbffc98db0ea5e93682bcb175853e39f558f434590a8544a5": false,
+ "ea9052cf4081158b2ab0551bcd9e9943997cd5efd3e9ec5db71c450b56f8d606": false,
+ "d2f45b3da7898f15d6f428a805fb0fefd93aebbf4cbd06d5fe32092689ddb6d8": false,
+ "1aa2e593c7ee282c593f0acdf7954cf1bd5028080a406b6fb299edc4645494cb": false,
+ "e02b29dc0bfe3d15dbd6b6d8c7c02d2c34fef49c6472c8148c7cec077fd0e0c1": [
+  {
+   "text": "Boho's Slack integration is its killer feature.",
+   "on_topic": true
+  },
+  {
+   "text": "Every comment and status change lands in the right Slack channel.",
+   "on_topic": true
+  },
+  {
+   "text": "Users can reply to task threads directly from Slack.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer's team barely opens the Boho app anymore.",
+   "on_topic": true
+  }
+ ],
+ "a340f963d0cba8067c5eb4823fb5c4defb79af3d2ba97ab4782a412cdb517972": false,
+ "54f43c0e12a84f96ed9e4bdd4affc2d939269c1ec481218d640e81f5d3d32281": false,
+ "772e2505a8f0764c023c2ee7c0147776aae7493c314cd988684c9d1e44fb8322": false,
+ "12e7d87f4100b2a2f77528f9d971aeb29f3da1ffe56daf541592e3cfd74aae08": false,
+ "706eeb03e582facda3f07d8cb4038372b1b7dca66b1fc02782cbc90f2c84b683": false,
+ "9779ea398520ad19893617a27ec1403f1769d01f4df9da015ba014658d36dcc6": false,
+ "47574fdfaf33ab94680eb92bf64de4bbb436d9cd8782153d024697c1b8d9abca": [
+  {
+   "text": "Boho customer support is painfully slow.",
+   "on_topic": true
+  },
+  {
+   "text": "The product is fine.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer encountered a billing bug in Boho.",
+   "on_topic": true
+  },
+  {
+   "text": "It took four days to get a reply from support regarding a billing bug.",
+   "on_topic": true
+  },
+  {
+   "text": "The first response from support was a canned response.",
+   "on_topic": true
+  }
+ ],
+ "3c8726ef52fa6f43678c9d214a121b16b1973c83a4bc2d27911766cfa75b772e": false,
+ "312c687c5396768f1df354b381bedd79e2ca4153bfdfdafe7f01a843fe479a25": false,
+ "389fc7961db7d8a1c53be50e308013c79a8ae8066f4d3f090d76494598d04061": [
+  {
+   "text": "The client portal feature convinced the reviewer to adopt the product.",
+   "on_topic": true
+  },
+  {
+   "text": "The product allows users to put their logo on the client portal.",
+   "on_topic": true
+  },
+  {
+   "text": "The product provides clients with a read-only view of timelines.",
+   "on_topic": true
+  },
+  {
+   "text": "The client portal reduced the reviewer's status-update emails by half.",
+   "on_topic": true
+  }
+ ],
+ "b93a82d02d2e4d641075b1b2ddbed100fbaa3d1aff9105b347eb8918cff200f8": false,
+ "c468a53551fd241892dee6be1f43bd37dd2859969550a74a31905fea2511a2b2": false,
+ "43001d8506a398edec9f5fdbed80ac7f9e5ca5393e56d8046994ac7d8cee6623": false,
+ "4068141aed3589a95d896890bdf74d96ddbc3fbd9bdd6c727061b872711d2d8d": true,
+ "1b4563fe4c2959c7dd94c5468dd19d96708007bfaf66c5cf642b3f04ce8a8a63": false,
+ "cd643b2a563921edb0c249190374780d33ebdbc861c5478db33c2c34c9cd766d": false,
+ "b350275a3e308bc73d49e0131dfd3511940e49ef5736bdd0d1ad926ab27a0434": false,
+ "f8494e6f1a24515d9ac91bd8b2f6f790061b47639646e45abc43550786a499f2": [
+  {
+   "text": "Boho is easy to use.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho is easy to recommend.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho requires zero training.",
+   "on_topic": true
+  },
+  {
+   "text": "The boards in Boho work exactly as expected.",
+   "on_topic": true
+  },
+  {
+   "text": "The Gantt view in Boho is just a toggle away.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer's team fully migrated to Boho in a weekend.",
+   "on_topic": true
+  }
+ ],
+ "561277b422f7156e7f6cd60f04d910417b4aff2084cc95db455a6da27392e05c": [
+  {
+   "text": "Boho's reporting features are too basic.",
+   "on_topic": true
+  },
+  {
+   "text": "The boards and timelines are great.",
+   "on_topic": true
+  },
+  {
+   "text": "Reporting is limited to a handful of canned charts.",
+   "on_topic": true
+  },
+  {
+   "text": "Users cannot build a utilization report per person without exporting to a spreadsheet.",
+   "on_topic": true
+  }
+ ],
+ "cc776c3e2180f5b6ee97ff823261a3ed18e1837e0ab16c704ff99692f3c0a3d6": false,
+ "eec1ff33f664cae6d3d4a5864f765481746bc705688467aad6920bc4a5f6fe7b": [
+  {
+   "text": "Boho is a good tool for its price.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho is cheap.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho is straightforward.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho gets the job done.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho does not have fancy features.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho is not frustrating to use.",
+   "on_topic": true
+  },
+  {
+   "text": "The free trial was enough to convince the reviewer's team.",
+   "on_topic": true
+  }
+ ],
+ "60d25d4040c5a95975800c03cc012d0db5cba13800065ab2224fa051aba3a781": true,
+ "606146745dde94313f876c33110e8036a47b1b37284616f391c832faf64c3548": true,
+ "23d01b5af7fb445cf900fe55e71987fa6bf866a49f0c018ade5494a65cb8d5e5": false,
+ "e003ac7481c2b08db8c72c539a07afdbd7f65d04f2bdcb61057b2ee61ca60aa6": [
+  {
+   "text": "Time tracking is accurate.",
+   "on_topic": true
+  },
+  {
+   "text": "Time tracking is unobtrusive.",
+   "on_topic": true
+  },
+  {
+   "text": "The timer sits on the task card.",
+   "on_topic": true
+  },
+  {
+   "text": "Weekly timesheets roll up automatically.",
+   "on_topic": true
+  },
+  {
+   "text": "Weekly timesheets match what the user invoices.",
+   "on_topic": true
+  }
+ ],
+ "b5c25b966dbdeefc579c0f7660c0ced6f7ec5dce6df35ebb9319849811138e92": false,
+ "b3a272aaa930653a761f8721ec8444223aa3746e02a268a264c3421d4bd81b56": false,
+ "a7c414c3cc0afae228cf5bca67a31d3428de1a8466c1b1234e12a5a924007cbc": false,
+ "e7f5a4b432928d720e44412e6b44581cbd36e7a2698bb59ce3cf1ef70bc7e4da": false,
+ "620c893d8c4a1eaff4a687c095667cb688dadd26148c9bf7c4d97e747a3be628": false,
+ "30a7a7397e1b0e330e585457602d5b4632615c643a162fd55c691c4445a8c291": false,
+ "ce8bb0dbc4236b5f46e96309aaf785c750997d8d65c03970268f1283ca8c5b23": [
+  {
+   "text": "Editing a task due date causes Google Calendar sync to create a duplicate event instead of updating the original event.",
+   "on_topic": true
+  },
+  {
+   "text": "The Google Calendar sync leaves the reviewer's calendar messy.",
+   "on_topic": true
+  }
+ ],
+ "d0f7dc1fbce6d3125c7918dc9333b07ebd9eb29bc95371f5a62a57d6bb2e9fb9": [
+  {
+   "text": "The UI design is uncluttered.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer's clients stated that the client portal is the nicest they have used.",
+   "on_topic": true
+  },
+  {
+   "text": "Approving deliverables in the portal takes one click.",
+   "on_topic": true
+  }
+ ],
+ "db2c77b02ddb6a9bb4539f80edd5509e52a8c93fb0277e5e40282a5b2cb84255": true,
+ "e41b0707a492bede95b715aafff92e9273f62234f6a787acdf18ae71f7983526": true,
+ "c2b5b275c4aee3a0be31a88c64fdb3b2b17f795ccaa5e2211168f054810d9511": false,
+ "7bb72a0a19c9f55b1f7695c3daa2c822ae9dee8f40c0e8e998fa1befdc3e1f95": false,
+ "cd40e2cb668b30ebb8b8fed182abc588a41ef96c709ac5bc1f00274564c22983": [
+  {
+   "text": "You cannot do everything on the mobile app that you can do on the desktop version.",
+   "on_topic": true
+  },
+  {
+   "text": "The mobile app lacks a Gantt view.",
+   "on_topic": true
+  },
+  {
+   "text": "The mobile app lacks time tracking.",
+   "on_topic": true
+  },
+  {
+   "text": "Notifications arrive late on the mobile app.",
+   "on_topic": true
+  }
+ ],
+ "a575a09f61af04eec6a7e0ab056224487cc5d15a24367592267ae4e0576f43df": false,
+ "b4592f8254b106162b3f001d9116e4e5218274ff9120dec28ba702629a515fcf": false,
+ "d12ef7ff9abbe441ef543f891b15c3aff3c82821430cd19f6748be16d7f3e095": false,
+ "7a30363f1264363cfe0eafde3692ee6b1842395bcc09fe04c5866327bf56c535": false,
+ "d67585ad0ab28429672e9739504c42746bb3ad969471c469277bbdff49ce8cd2": false,
+ "fdb323980ca3cac454d938d4ce42f0bfad65520d7240aa4b40ab489db9ac5d59": false,
+ "b901776f2d84e578e4729d6b47aaf92f011fb05147352d6ab44f29a4f82e43ee": false,
+ "ba72d3cd72f1053e1d645876d92a22d2d31783e7cb4ff654004c18efd8f23acd": [
+  {
+   "text": "The reviewer's organization primarily uses Microsoft products.",
+   "on_topic": false
+  },
+  {
+   "text": "Boho's Microsoft Teams integration only pushes notifications into a channel.",
+   "on_topic": true
+  },
+  {
+   "text": "Users cannot act on Boho tasks directly within Microsoft Teams.",
+   "on_topic": true
+  },
+  {
+   "text": "Slack users can act on Boho tasks directly within Slack.",
+   "on_topic": true
+  }
+ ],
+ "b79ff7afcbe7d8e71c0745f064633c895339507810de906fed8bc1dd24d5dfb7": false,
+ "3ddd687cbc41b10c4773fd21c386c1e189cb4eb020cf70d90923dde9b0955a78": false,
+ "92ed1c7f9532bedb3f2bd14f6aebdbd1a55a2191bc9a21af9e75275fae4465c8": true,
+ "dd006731ca5eb20140a344b0b2b4e4b6a798322a843bd38a027122a3845de7ed": [
+  {
+   "text": "Boho is perfect for a small creative agency.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho has boards for designers.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho has timelines for account managers.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho provides a portal for clients.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho includes time tracking for billing.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho keeps everything in one place.",
+   "on_topic": true
+  },
+  {
+   "text": "Nothing is hard to find in Boho.",
+   "on_topic": true
+  }
+ ],
+ "f6fe392779c672c07785bd04ceda09585db61a2631b5fc2d42b737e41a523b01": true,
+ "8909c8139240a2821b92e3e4e6b901e7ce312ec2d9bdacc6594ea0c114db4e3f": false,
+ "0c30f870ac4ab9368ac91135b66e57df03e26af4883a0c8a3368d000cb26467e": false,
+ "81d9a95a84b0d57741cd2ea62e54a36d8c34f353217304e7926d1b82c7f8bab7": false,
+ "6a11a312a6ba2c0512b749e6061e0b6e27607271b5b571c9eed7c88a4a2a4c62": false,
+ "594ce0c8ac35182ebb016935003148ca28f39a7212b68c54c754082cf44772fb": false,
+ "0bdb191c697505f931a070e24d3de6a612ffced99f3e6e59c09332af806f0479": false,
+ "a7d85981a2c4e0e35e9b9a774231fc02fc0650118cb35ab0b9e7fe7b3b8c4e0b": true,
+ "6e6d52756c6ce4422f08749f4b024a34b655dc3755527f70f8c758c6d2511d80": false,
+ "671a9b54ed7de09b56c8061f64f262ca243423189913a27eff820db2ea0e6d9d": true,
+ "48e77466eea03f351ddcf45f41aafac68d044373d3246056fe65052fe65e47d2": [
+  {
+   "text": "The reviewer's agency runs monthly retainers.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho does not have a feature to make tasks repeat.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer has to manually duplicate cards every month.",
+   "on_topic": true
+  },
+  {
+   "text": "The lack of recurring tasks is a dealbreaker for the reviewer.",
+   "on_topic": true
+  }
+ ],
+ "1bc3c0ccbea37b51073eed9a92168de6dccd974ec7a6adcbb507b85c3b204b27": false,
+ "684d699949574518b9ab218aaff753e05edf30b8e4c68a2e143cebcf4ce31de7": false,
+ "56d468274d9ebda4708c093dd95ca1cde10cf5cab7793b2fe7f566b781e2209c": false,
+ "6ceb7dbdeb6bfa55ac0f39cf74f2804f4303f01a63951b179ac82cdf24de5525": false,
+ "a81d4f4681a10aa1c3a976862b1ec5ee9016d0acb55245c1a563d3d99756a52a": [
+  {
+   "text": "Boho's support experience is bad.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho support took a week to answer a simple question about seat billing.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho does not offer a phone or chat option for support.",
+   "on_topic": true
+  }
+ ],
+ "1a94210723822f17bd2b170ac6c9bd224ff6cdf22445eb541af37e725f7df929": false,
+ "227c64e68b6a751b7abb6bcfb4475ed4218f419a86ab2a5cd711304d7f76686f": false,
+ "47489442847c9846266c4793a0f508f42090fd261eb21b8aa483fc35d9e2578d": [
+  {
+   "text": "Gantt timelines are genuinely useful.",
+   "on_topic": true
+  },
+  {
+   "text": "Dragging a task on the timeline updates its dates everywhere.",
+   "on_topic": true
+  },
+  {
+   "text": "Milestones show up as diamonds.",
+   "on_topic": true
+  },
+  {
+   "text": "The client portal shows the same timeline in read-only mode.",
+   "on_topic": true
+  }
+ ],
+ "86c79053a726098975af692a279f0264e4536a9678e0d7ea486ce37a742514c7": false,
+ "128e156800bcbc94814b5af38b4893f94cbb516fb5533afab4c74e6ad493577f": false,
+ "07adeaf044dedd1c04823c795adc62cd29985cab8c68472188aa7569a5e855a7": false,
+ "214904313cd961a18264b117ec4e36522c6ad2d56e305337d0229e2e1507d99f": false,
+ "0107cebce231e92beccb911d4733ed97d4e74c4f94b2b2e1eafdcc373bd3022e": false,
+ "16b814ec44f0e0ad74119c51b3a8f091ca7d93109b2540063eb6796592d56ef0": false,
+ "6ce8836c8851c9335e2374eb139f4a0c1a70ff5bdec25690f83832da1216cb02": false,
+ "4b1ce208b9c2f8a29937aec94790306b0eacb65bce8a3b08173ab0038b707475": true,
+ "3af595a3542d4e9b4e786bb8d116c09fa3bc63fa6a5a9583436fa07943fca64d": [
+  {
+   "text": "Boho offers a 14-day free trial with full features and no credit card required.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho costs $12 per user, which is very affordable for a small agency.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer wishes Boho offered a bigger discount for annual billing.",
+   "on_topic": true
+  }
+ ],
+ "3a78722b4f2c8c164901567e3db3424df3f9baa308f6d8c69d182e11cc703e52": false,
+ "183c3e8c6aad806d465865ddf8fafb25f27ebdb167155b0f203e3353ba8acd55": false,
+ "c0e07a35a5dc6737f83b3ae8e8052b4bb98216ba8a5de7632d4c840f11fb26f0": false,
+ "aaaf6614ac4c12f0fdb7f36901c912851b2b93b2b82bd05d6b35ae5bcd5f8ae2": false,
+ "7e0a745c4ac707d2f527762d68580c0df52577d14e769cf64e51ca671fd6924e": false,
+ "cea0c5296bc793bdee4ef424b68a9f047bc0eac65807943476ca611d9622596b": false,
+ "2dced050a2f842e353c91cde77f74fa86f0126c38bbafafb7f205a4749e331e6": [
+  {
+   "text": "The reviewer onboarded their whole team in an afternoon.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer imported their Trello boards into Boho.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer invited everyone on their team to Boho.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho's learning curve is almost flat.",
+   "on_topic": true
+  }
+ ],
+ "c7e38a2c0561d52860dbcae95d70ab50cad106a6c40f2ce7a3ae21b6c24a4112": [
+  {
+   "text": "Connecting Slack is easy.",
+   "on_topic": true
+  },
+  {
+   "text": "Slack updates show up instantly.",
+   "on_topic": true
+  },
+  {
+   "text": "There is no way to filter which events post to Slack.",
+   "on_topic": true
+  },
+  {
+   "text": "The Slack channel becomes a firehose due to unfiltered updates.",
+   "on_topic": true
+  }
+ ],
+ "0d529ad920fbdb830946561d4847df7e8d05c038c2a02c45aee755086e33606b": false,
+ "9ba057240e7a77b56480564e0b9c4dd6bfb4047f9f8c95a9c1a9e711d3184e44": false,
+ "e91fac66a6f79fa00b8f0ee9ea3124d00c91b7bbc4922746c15df08c9b2bfadc": false,
+ "02920f992c16fb5fdef6b3483995ec246fe10c3214ddc206a9f450b84a6218e4": false,
+ "0c63ed5a694e39c59f8261b49f9f614f1fb3ebe0227b79da24f944596b38aacb": false,
+ "b5ef2c25b8f38d845a7e128065338f4af78978deb73a9213e9e322242f56a08f": false,
+ "e84dc9f6386bcc7953839e4b388ddb0cd22553cc7b20fa327e132af15caa54de": false,
+ "38dcd41b10b5c0b185ad42434d1d24852d3f6bedf32fdec34e00a6ece57ee5a4": false,
+ "07ee77c53dc83bda15ccb9fbd3e9409aa6150318f0897e2ef6d8c3f951437b21": false,
+ "5ed0a00dd7e598796068cd44807e9628d462fafbb41f7c01bc4a9d0f3dca7b58": [
+  {
+   "text": "The reviewer wanted to pull their data into a BI tool.",
+   "on_topic": true
+  },
+  {
+   "text": "The product's only export option is a flat CSV per board.",
+   "on_topic": true
+  },
+  {
+   "text": "The product does not support JSON export.",
+   "on_topic": true
+  },
+  {
+   "text": "The product does not support API export of the whole workspace.",
+   "on_topic": true
+  }
+ ],
+ "385e601c0237a7343fb2bea947f13987b0c17e5407fc56aab2d54cd201375971": false,
+ "0ed8e686871dd7a9da5ea4be36245676472a37ebab49cc502bca845fcf47328b": [
+  {
+   "text": "Boho has the best client portal in its price range.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer evaluated three tools.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho's portal was the only evaluated tool that allowed clients to comment on tasks without buying a seat.",
+   "on_topic": true
+  },
+  {
+   "text": "Allowing clients to comment on tasks without buying a seat justified Boho's price.",
+   "on_topic": true
+  }
+ ],
+ "47c53b10bb032657b5fad72c52560762eeed07794ee38bcc79530139ac3a82fb": false,
+ "371354c107cfb68fb2bcec220f31fac478f739cfb54fe827a88bc59f475fae3e": false,
+ "1b9365001063ec6a1c62f4c8e3eed8f13dc1ad550366c35d523ee54871e271e5": false,
+ "c598549e9e92cf93251de2d2f3faced578b56d4e6f4d514d46eb37739f3422d4": false,
+ "fa6df869dfd1be549fb6b4dea12345f07ee7dbc8ac1bd1985997ef415836ea9e": false,
+ "5d1f1043985d63b17406bd36a18eb4ac3a68b699cde05a5bbc3e7baebfbf8299": false,
+ "50c711a79918ea8dc12aa08f5d97221d5540e49755ccfff38cb072c92f03a7ae": false,
+ "72a7f9618926ab1fbeb9495211ff80ce0918737f3df381b6bf29323ad99caaad": false,
+ "0c6e05392fe6d1734d215f98396992713c96d369d6dcfd248636c48fb280534a": [
+  {
+   "text": "Boards are intuitive.",
+   "on_topic": true
+  },
+  {
+   "text": "Search only matches task titles.",
+   "on_topic": true
+  },
+  {
+   "text": "Finding an old comment means scrolling.",
+   "on_topic": true
+  }
+ ],
+ "a5dad746cd45b431c081aafb433437edbf4af37b015f4e317dd88728541d0912": true,
+ "df329f4c298f9f59314ddc8a97835aea42cfd2f281485748fe1ef55a2cae7c85": false,
+ "673526c432056c668fa78174a8c3f7c01cd2f9b69bef7577f99b886d85df159a": [
+  {
+   "text": "Boho's timesheets make invoicing painless.",
+   "on_topic": true
+  },
+  {
+   "text": "Monthly client invoices write themselves because hours are logged against tasks in Boho.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho includes a billable versus non-billable toggle feature.",
+   "on_topic": true
+  }
+ ],
+ "f08167858f289ad7edf43aef5fb6ba309109edeb94bcde062f5df6e2e0ba5bbf": true,
+ "49818ceb55e1306ac958a412c8cf87bfea42057dc6f3b45627300fa0e6e90e5c": false,
+ "bd471646a6ce8fcd6ee529dbd4a68fda981ba7e84bcd13ca29df41c0218717ca": false,
+ "e03bbbb79d7b697770aa0de484d91ac2ec68592a5b23b0bd4bf67ca47fb08779": false,
+ "a407ecf91ef4e70a03f0bbcb11dd64d98e5a8bd6ea3f7840930d10b18fa13d37": [
+  {
+   "text": "The iOS app crashes every time the user opens the timeline.",
+   "on_topic": true
+  },
+  {
+   "text": "The desktop version works fine.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer is on the road for half of the week.",
+   "on_topic": false
+  }
+ ],
+ "5056b32e05a4e1fdc7a429cdfa30df289bdfcda9a5d5050491676d34af9c81cf": false,
+ "b38fab91e6464fecbd9b23530749e5d0583df4c98a9338e79cd79b1616ec1ce0": false,
+ "6df447887825952cd43550ef6a21ef1cb5cbd749555c415b986bb7245525e532": true,
+ "2a1a86b93d52533a99143aef2800b42bc17968d5dcc7c2b4f992113591f2915e": [
+  {
+   "text": "Boho is simple.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho just works.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer has no complaints about Boho.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho is fast.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer's team adopted Boho without pushback.",
+   "on_topic": true
+  }
+ ],
+ "2f73158a1074c19338b0ada1fe698735da21a0c549937988d2c26dce42260395": true,
+ "fb3bdadc2d4177ce4cc4d7e46276717cb904f5dfc2300b2340968569a154e44a": [
+  {
+   "text": "Per-seat pricing punishes freelancers.",
+   "on_topic": true
+  },
+  {
+   "text": "Bringing in contractors for a few weeks costs a full seat for the month.",
+   "on_topic": true
+  },
+  {
+   "text": "A guest or day-pass pricing tier would be helpful.",
+   "on_topic": true
+  }
+ ],
+ "b72fd19154bee9756f95b4ed4b1b76eee512bde3774358639a85c2edc13a2b48": false,
+ "d5ea7617623e636f4ab1ce98ce3cb420c4bea70f90bc87d13af8614ee73c7c4d": false,
+ "919ab7b3d89ec741c1a153c6e736ce44c5f3c360dcb65c5eb12c5097edb9d754": false,
+ "403d2b1e55164783d0ef5a5c7234c61558afedd5c763442c6e0e0fa9aad19989": false,
+ "297f3499f424c77d338e3ed5c91d83572b4d907c9712772aa5ff771fde18a30c": false,
+ "3170baee6d6c1ad15f86f2f37c7ff384c6f65ff237397856a606810dc11b81c5": false,
+ "86fb82800c0934fe65fe5cc4f0fe3d2a2be4cfb610f84e9a088cb6a67f91d35a": false,
+ "f790d735e49ae065239e9094e7952537c5e3ebfa96e40fb2f5f5df15971b80da": false,
+ "c3f19e9202e3ee26d3bed4a868bbb86bd8ca696d6dced171107c771a4d9b5e72": [
+  {
+   "text": "Boho's client portal looks professional with custom branding.",
+   "on_topic": true
+  },
+  {
+   "text": "Clients can download deliverables directly from Boho's client portal.",
+   "on_topic": true
+  },
+  {
+   "text": "Using Boho's client portal is a major upgrade compared to emailing files.",
+   "on_topic": true
+  }
+ ],
+ "6d7f51f39cbbae5889dd6875af7ab4091e0f6761afeabce531fb7da0d68ca58d": true,
+ "09730f36a6a2c63feacd9b179e7b37c2946cadd7cde3463724ba11e071eca104": false,
+ "f8a52241e49d03177b5429581fb6e700f3bc34157899ba88f3f726b72c64723a": false,
+ "e651d8ef00a9c015a319bc101c277fcf8e480ecff6ef25dbcaafbc2ae9aca9a2": false,
+ "97270833a119fa4d0236ffbd9d0ef1eb4f5f5f6889ed2c4fe050049ef821c232": false,
+ "620c9ca043194d93e178bf02d3c11cfa9d8346791f4b582a60fc94c51c7134bd": false,
+ "7a31a05a2cdf37d0a27fa8fdb57e289aced60a5bcc0bfb7c1d0f214501b3e725": false,
+ "0cff78b6512b30855d85b69d7be16f3d1d277e3915659a1e3041e21c97148b24": [
+  {
+   "text": "Boho does not have a dark mode.",
+   "on_topic": true
+  },
+  {
+   "text": "The white UI is harsh late at night.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho is an uncomplicated tool.",
+   "on_topic": true
+  }
+ ],
+ "4e028c39694f6e77dcbc3df9515b39f7ba29c908b81c8cf916d32a0cec1565ad": true,
+ "808e953c9431bb88c7c21d492fa66ab4a426c022b978328d03c3be6b057a4ca0": [
+  {
+   "text": "Boho's Gantt view convinced the reviewer's project managers.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer's project managers previously relied on MS Project.",
+   "on_topic": false
+  },
+  {
+   "text": "Boho's timeline is simpler than MS Project.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho's timeline covers the needs of the reviewer's team.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho's timeline allows users to drag to reschedule.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho's timeline supports milestones.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho's timeline includes a client-safe view.",
+   "on_topic": true
+  }
+ ],
+ "5827d6c99aadbac08002242418f165c0cc6fccb0dc53adab6c80e5fcd2b6120c": false,
+ "b7ffbe023bd6b8574ebdd7a37d5dd0919040a675b30d7d64e7e78e682c439b78": false,
+ "9ef5f832d883b18332d580666191e9fb26fe6d5d0c44afe23e91461c99a774a8": false,
+ "b1bc44cbbe3341b684e5a34a8db12e3822959c64e47279e8591b85dac135860f": false,
+ "e464f5101687cb2aeaf966dedfb3fce7132f528272f5f9a1cd525da2395ee5c3": false,
+ "beedd3c6e6902681bdd6fd14cfe45d6ff5ce211c891d0367aa7ff9bba44334b9": false,
+ "6c514926e691b7d6c267ade73be8dc60c37ed93f9749f2c7037e263ac835f673": false,
+ "c9d5ef5a01a7a544b40858c0042bc23aa77d4f987d1d4a71a10247b4a4847ca2": true,
+ "0b7671fedd723dfcd5c64afcb3b934135f771124cc71762af415e86f6058d1d7": false,
+ "74e9cc9ba37ec87bc4b75b1063952e470a4ac443bfd576375191beab6bc6039e": true,
+ "d862f673a92d105238d8e4fdcc8c6632e45d1ca05b7810c3da3b614f5876fd9e": true,
+ "bf19c90344913918bf914dacbf45d4c13d6d23b4313deb1f5c89d383c9bea224": [
+  {
+   "text": "Boho's reporting features lack depth.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho only provides a burndown chart and a time-by-project chart.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho does not offer custom dashboards.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho does not offer cross-project rollups.",
+   "on_topic": true
+  }
+ ],
+ "7928218ab0d3525a3618ebee3934698063003d9249f3f102382d85020187125e": true,
+ "219fd66c084eeb6a4cd4f98691e293a797720973a1b09ae0de97138e03635cd0": false,
+ "56a4b3a63a69635e5e111436fe47b786dcc5ebd6f6ed9f7bc1c5a559fa33c02b": false,
+ "61e8e9938a76efec2f6c91338b8bfb2d1ee26639876e94d12911f3059394050b": false,
+ "18ca5da696de239dfbedf09477b8e7c1d9cd1f96e3f7bdb1776dc8b353ed6bb1": [
+  {
+   "text": "Boho works well with Google Workspace.",
+   "on_topic": true
+  },
+  {
+   "text": "Attaching Google Drive files to tasks in Boho is seamless.",
+   "on_topic": true
+  },
+  {
+   "text": "Google sign-in for Boho eliminates the need for an extra password.",
+   "on_topic": true
+  },
+  {
+   "text": "Calendar sync in Boho is handy for managing deadlines.",
+   "on_topic": true
+  }
+ ],
+ "d2c425cffe6b7c6fb500ef84f10324f47e2cec482c3b738ad13696b95abd874e": true,
+ "2808258544c4d9ea515bfad002dfb76d6e2c7f38e8a24c68bfea6b4b6db4660f": false,
+ "08882e51699ad1c7a80dbb9b1bae97abadbd475f135fedf7a4c4d6a11a1a67f6": false,
+ "4031583077e2a22597e450e6549c56e733b6c3db1a5c4aebd0d4a7706a387b6f": false,
+ "09526a82da42fed2f1341c9d853d1712feb880ed6312549f3a7cac23cd653e01": false,
+ "cb6f978f84a0fd297c82c2f584ade2bd153d965b9c64362630b151720d001347": false,
+ "1d7b8ca844c8aa9f1da0da4b904b83634b5bc0704f848a3ccd5a9f0d361d9308": [
+  {
+   "text": "Customer support response time went from a week to about two days in the last few months.",
+   "on_topic": true
+  },
+  {
+   "text": "Customer support is still slow.",
+   "on_topic": true
+  },
+  {
+   "text": "Customer support is still email-only.",
+   "on_topic": true
+  }
+ ],
+ "1e3030be74a20b1e859cdbecfaf9ba465f588b9ac6e5228a6ec9bdb40d12334f": false,
+ "11d1c0feb0267b6b66eb31f09532b1d4c4899be83eed6466332386c10a7d76b3": false,
+ "8791fd62eb7b20aef6bb8d6945e7a916eb6c118428ad1845b4c52aba2de77fd9": true,
+ "9d8bc77d442c61c8b57334890e046828ca33299dbb3be65f6dbbf3a1323a911a": false,
+ "c1514ad5c5ffeb31f9d823b431802a08b725a0826569f18c0ec335887794c1e4": true,
+ "513e87cedad00ad3a882bc5c70036732c23c9c15554651683c34c8cc3cb81354": [
+  {
+   "text": "Boho is fast.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho has a clean interface.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho has keyboard shortcuts for everything.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer would pay more for Boho.",
+   "on_topic": true
+  }
+ ],
+ "b22c0bf49d368b77a2ce89509ee4d97ce76c59e5e773ccb99e3c1677592db431": true,
+ "f254c7452e18d3f15bf8ddb6f607dde6c3ac8b57d8979c447eaee277d3cfa2cc": false,
+ "627070614bfef9fd52c88f2fedaf4fdd8cc594faaf70d36966c0897b9ea2c900": false,
+ "bfabb2cacfc0db4b92a1f2c7d6b7261a051beb18e6fb45b44c0be5125e9ea64a": false,
+ "461cd788a3c9cc4e6cfe04ea7c6f11a8ba4a21222745d151629836fa51fb436f": false,
+ "857ee8ee38cda8d3e2f576659d49c53b8dca26d88c0775f16fde469c8211916b": false,
+ "a80a68a3dd4a7874c6c4c1174c6343b46ab40ec75253ef315663b6c627081b5f": [
+  {
+   "text": "The reviewer hit Boho's API rate limit within minutes while trying to sync tasks to an internal system.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho's API rate limit is 60 requests per minute.",
+   "on_topic": true
+  },
+  {
+   "text": "An API rate limit of 60 requests per minute is not enough for a workspace of the reviewer's size.",
+   "on_topic": true
+  }
+ ],
+ "78e8b596b3bc2d0d9d5186abb326ae91ddbfc54841c4a72e8c02f2481dd5b2b4": false,
+ "cc7915870a0933a0dcd2e0dcee877fc83220f9d17ffc5869f98f77b19ca6399b": false,
+ "cc18a41dffcb7b210829ca200ef00bcb0cc3a9de5746e2fc2c7d38dab2c34620": false,
+ "1dfbf50a716e3008cd7a3755a4ca34f2c1903cb1eb0a0b53c67e0066b79ecdc8": [
+  {
+   "text": "The client portal reduced the reviewer's team's meeting load.",
+   "on_topic": true
+  },
+  {
+   "text": "Clients check the portal instead of asking for weekly calls.",
+   "on_topic": true
+  },
+  {
+   "text": "The client portal saves the reviewer's team hours every week.",
+   "on_topic": true
+  }
+ ],
+ "f24b961fac44ad8e84e66d05d5726c7611731a1bb327853dd7201f03d420466d": false,
+ "7ab640075c1f42dfc0561f995b7a248ebdf9a1799df050c2cec2d8c185da3f3f": false,
+ "b38ec3096b8e58a6edf6ed37fde5241e18313fb5c75f5f69cef3d0a7c017021a": false,
+ "a0f11965fe404854e610255f683c4a5f061609ce358db2d42787290f7a4bfbb0": false,
+ "0648f70c3537d549d2450954f76c5d48e9f78e0e69cd3b340a0cf72d27508683": false,
+ "e7e45d6032e54cbaa739d7f8b93ed76541712472ad48cc540e96f7a6ff9b8b27": false,
+ "1d5ff5a2dc3ab382fbc2de57cc41e08dcac027d520660f8b28ece412572dc0e8": false,
+ "4b935cd04d1cfb792490708b75b8be0fed82c2dd2bb7748a1fc2ea5b77b2a5f8": false,
+ "5bea84d9abc45c251468c72f00c41b3742b6916ff218c776e9d409c8411b2139": false,
+ "1e38d167600a515ac4c1009081c0f508d68aabe9e1c2dff606fce294540a6a21": [
+  {
+   "text": "Time tracking in Boho is convenient.",
+   "on_topic": true
+  },
+  {
+   "text": "Closing the tab leaves the timer running overnight.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho needs an idle detection feature.",
+   "on_topic": true
+  }
+ ],
+ "2b292b4fb3a4d02c14bd02a53038a73d6d793f171ee083c703d96092ca31c256": true,
+ "308ab4305de06c97b470b54a3b9573298b3edb3e90bd72f1cb5de9b67e430ad6": false,
+ "dca4e170e3808a0f8cd898beb59e730f5a865568534b0ac52088126e01b7cf35": false,
+ "c99c8c3da9126d5d91187dd734ee160472d7fa316ea8f9cafae2f641e5f1ab32": [
+  {
+   "text": "Boho is cheap enough to give every client a login.",
+   "on_topic": true
+  },
+  {
+   "text": "Client logins are free.",
+   "on_topic": true
+  },
+  {
+   "text": "Free client logins matter when managing thirty clients.",
+   "on_topic": true
+  },
+  {
+   "text": "Team seats are reasonably priced.",
+   "on_topic": true
+  }
+ ],
+ "81fafb776944fb8a808b6828ee1438ac6cb1f9a3c2d8a9116e7e942533dc2bc5": false,
+ "85250dc60dc23632d3e81c76d4b67ce952781916687ccc6c10f16c45c69eb8be": false,
+ "b2561c05f7dabca609527640080f8503a90a8a118f0e4b5e727d857319f4b21c": false,
+ "806c2b6bc78dd944664f05668ff6714fa4ab6f69c32d3b15298d56d9037d48ae": true,
+ "fd6c8968cb4c876ddae1d02a43f991bf04e87564f140dd9a7f39ce2bcbf5d631": false,
+ "893ee5a259a69949eeff7f3df0f58ee485989e8b8a52bbb1e78c4eceed00906a": false,
+ "9673e6d34be80022f67a65b175a6d65e256dc8d3931b6afd7d0949d22a941d41": false,
+ "e13171859b4871d19b131f28faf36aa42c10391f6499c9d020b1424dcee76093": true,
+ "2cc4eece0d009849c65a7709aa1a049e9af8ce0930b253f0765008127389c009": [
+  {
+   "text": "Boho is easy to learn.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho is great for an 8-person team.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho lacks team-level permissions.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho only provides workspace admin and member permission roles.",
+   "on_topic": true
+  }
+ ],
+ "9fbe34f6a3a4407056382149ec11092f3fffdafbb8e6e5f580b680d7612743ba": true,
+ "7e41d382cdff6d8f83b702444ff8210de44a9444aa47f59474704ad44006c53b": false,
+ "7a7201586ec6b60d8774813b02c2c2609791cf90a189be4d426b46aaf40e19cd": false,
+ "9142e55cc23e3cf581c3949520873373b7571387d00793502d22a179a30b4e3a": false,
+ "9e20203916288dcf1ffd1df359c5ea89aea604a8512af2de961791f5a886e12e": false,
+ "ae84ce20151a2f9478458246602fd7c1fdcf7a4691f84294dfd8311c6759e6af": false,
+ "1eb679cc152083a656d71157b36e21496360bafc660aeae64caa9d3ec67b22dc": false,
+ "37f43f7e841e7cc1f539f94b94e0e16c744d32ebb063e09dd125ed29ffca4dca": [
+  {
+   "text": "Slack threads keep discussions in one place.",
+   "on_topic": true
+  },
+  {
+   "text": "Task comments mirror to a Slack thread and back.",
+   "on_topic": true
+  },
+  {
+   "text": "Team members no longer have to ask where decisions were made.",
+   "on_topic": true
+  }
+ ],
+ "ac6ac2da64f9672834ca5864614fec9a01011090ddad1334a7d2b728386200c1": false,
+ "c07ee5b9c5631cc3090a40bd5a924c7ba1ced2d56abed180ba2c54ca54cb89b4": false,
+ "4dcfbf3a8531abf89776e4f8972a2871b67bbf748d0d0600397bb6d66cfedfb3": false,
+ "eae48e6c2109e7c74f78634b200fe2fdc65b7bfef19fad2a8f20d0648a1c600e": false,
+ "bf17f92b2339672a6bd5c9951a0637bb03bfa3f60c559d8db5354f9305e5f904": false,
+ "26fbb70418c6b55f06e4cc0c60841d9a75103af5bb10ba8a3d80630a945a4bb6": false,
+ "10aff07a63a901d1cc6754c2c82d180ae90e9d970ca874bb501c9e2d3063b8fa": [
+  {
+   "text": "Every change emails the reviewer.",
+   "on_topic": true
+  },
+  {
+   "text": "The notification settings are all-or-nothing per workspace, not per project.",
+   "on_topic": true
+  }
+ ],
+ "5dac811fd7558d435b4d8a9172b265d5cf177641cbe7b5ce8abf7fa79aac4da6": false,
+ "e0b0f144a265902fdc28a1aa72a9f9599241ac4e883b8ee9fd35b5047a590641": false,
+ "fa5d61172b8bdfee4c00d41b72db41743f0f9508c9bc6eee20b02852f0bb21b3": [
+  {
+   "text": "The product's interface is refreshing.",
+   "on_topic": true
+  },
+  {
+   "text": "The product is simple compared to bloated enterprise tools.",
+   "on_topic": true
+  },
+  {
+   "text": "Everything in the interface is located where expected.",
+   "on_topic": true
+  }
+ ],
+ "ce2b875eadff3313eb259b530485a9ff532c92be768c89701ed5f180e7f96488": true,
+ "dff63a4b04df012d49e8f2f034ec07164dd4d1b4479532fa8d5ac8de531cecaa": false,
+ "109b4aa201910664724d0b4dd8d1ba8672a8c3c3038dc96c6292a1a916291e48": false,
+ "ae147f7ca52beaac584b718e7c6e9b4f6a336d22ff4f82307244c462d319f545": false,
+ "18f025141b694f46be1b9b13085179c969c1880afd21230a53c3f5a8c4542c07": false,
+ "35a41bec2deaf3632d6a373f395a1c79534dca5344103b290eb4980c38c325af": false,
+ "88f21f212c9e9abd321101892040dc89f64bf90fddaf01754feded4100866c03": true,
+ "faecf650a0728426029ed692b884cf67bb9810c6da753ecc27000d5d0d05749b": [
+  {
+   "text": "Boho's native app is flaky.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho's mobile browser version is surprisingly usable.",
+   "on_topic": true
+  }
+ ],
+ "5a30d4996c77ac3375e0767ea3b6b52f32048a57b0621c2974d1ef9e99f9ceac": false,
+ "4452a16448afeccb770a2fb85ca068fdebdad3c5654c3efcf80bbb2f41842bee": true,
+ "9763f12972106ec6adcf050b3648403f7101a96b5dedd666589b551ee1743517": false,
+ "0f09dfe158fc35c417f608a0dc17a4505c462fc082d682c86225c6c396689ac4": false,
+ "28be9d009b381300124c198b8c3e34f64797ba3575d047c38777822e63a3e942": false,
+ "e23a9356c722e2fce85d4d3fb484c40873746e0aeb1ba6e65cc4d1c8c1f141f8": [
+  {
+   "text": "The portfolio timeline loads quickly with 40 active client projects.",
+   "on_topic": true
+  },
+  {
+   "text": "Color-coding by client makes the overview readable.",
+   "on_topic": true
+  }
+ ],
+ "04bfa945a58751457b79009dc4a7154e06f08a411c1a644f1707446215fab94f": false,
+ "12a36a2c33deadfb95c27ec225cf799b7a04e53703fb1c18129aad9493a97177": false,
+ "fb64339597b74361826c8fc4536822de7249e77f282f41ed5177c072264ba94d": false,
+ "a7a3677ca54e43772ffced0eb691f36e204a7792b7c8deb78a61eee77ec51c25": [
+  {
+   "text": "Time tracking in Boho is frictionless.",
+   "on_topic": true
+  },
+  {
+   "text": "Time tracking takes one click to start and one click to stop.",
+   "on_topic": true
+  },
+  {
+   "text": "Tracked time is automatically attached to the right task.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer's designers stopped complaining about timesheets.",
+   "on_topic": true
+  }
+ ],
+ "50deb7d10ab7dd6687c09a3dc7ace50fad64def0644cb9a3685bcb3edfeda1ab": true,
+ "a94d2be0012569fc981006d4a84cccd2ae92f9c59da949e944462fc4a2d792d4": false,
+ "a3be19e655a363e2b95ec67d996c8257171ccc842d8afb2d99b306a7104fb2d1": false,
+ "1d9215efaf45b32e605cc54bdd301b8c635d7c253c70ed7770378fda438c217c": false,
+ "448e0066bad39ba37d7411c0424054f99b8726812d7196c204166314aacca9e4": false,
+ "e016a0a8d72cbe96e8a0bc2668276ce7bc4c9f70b580a38e1d5f3d6f1104c749": false,
+ "b9e9ffb4a7d4e1f97f9e56c770e0bf698c61f5b4cf6b40b060de358bf85f439e": false,
+ "f5653c51c4c148a57a065698304be18e07ac3bd3532129ff975bb1bc1338fe71": false,
+ "52a77205a83376c3cc95988ec95e0c182d35c8af09c06c61020f9f3f1a3d70d6": false,
+ "309cc45a739b134719041f32cf94e8125979263d7fedb40b67a34bd91eff262d": [
+  {
+   "text": "Boho does not have a task template feature.",
+   "on_topic": true
+  },
+  {
+   "text": "Every website project has the same 20 tasks.",
+   "on_topic": true
+  },
+  {
+   "text": "Users must copy and paste tasks from an old board each time due to the lack of templates.",
+   "on_topic": true
+  }
+ ],
+ "5a3916d558cf247ac237f138235723b97d4ae3be81fbbb5bb063fb424f698d0a": false,
+ "d9014352eb717bb928f40b4636b65b8b9aa58bd9b05217dce8de2e424c7da8dd": false,
+ "5d777c7fd428734c1146cb190363f983ab6c91e0ac82d8f930f26469ec2ed9bb": false,
+ "dd2a46fa001052258063fe7f434938b9858db321a01d74be1dad2c91d06c59b3": false,
+ "62575c70199d2ede1fff24218152bca31b59ea82be901a41f84157f989a1f36a": false,
+ "dd0b59d03ade222cf672cf6c0a13adfa125605c46124bfb50baf1637466c7e3c": false,
+ "91da5fa3a0a861bfd08f8c5bb8967c84f905422c2b6574dee58da3a7b1444e0c": false,
+ "90e2972d97bc4fa0553e9589d0f975217471839f1d635bdccba9147e26290081": false,
+ "8541a622d3226eac01cae2e7c54b9d9a35e11992e84af6d7519de250841e9bd0": [
+  {
+   "text": "Boho is better for agencies than big-name project management tools.",
+   "on_topic": true
+  },
+  {
+   "text": "Asana and Monday feel built for internal teams.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho addresses the client-facing needs of agencies.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho is simple, focused, and affordable.",
+   "on_topic": true
+  }
+ ],
+ "383917acb9c8cc42d082850202a3b5295bf15ca19b38b72b19b797015b99c057": false,
+ "0b7f08c18a006402efaf34f06c07ee73839ce3723342f3fc8b51c97a76161266": false,
+ "03875dc4d85a470951b0a843f38445ab9f53abc3063212e9eaf73cf0c8b32d41": false,
+ "9728a698a334741d4282088c54055620f56d06162f583cb0c6a595e0e6f6f551": true,
+ "6817c50398445cdc9907110521497b94d06c979c87fcbc900968e208ce010ec5": false,
+ "3a41d909360640c2c624a021ab2705daab8f42aa693ee4cb1dc2a0dc655520fc": false,
+ "393b86a0ff7a695ac0a68a739034d75d5ae1c90df4aa4a7a29b72895b4819bce": false,
+ "deaa67104c99b5b1b707de72ca3afe043688f084ef2d178dd96bf9917b679299": [
+  {
+   "text": "The product is solid.",
+   "on_topic": true
+  },
+  {
+   "text": "Customer support is slow.",
+   "on_topic": true
+  },
+  {
+   "text": "Customer support is only available via email.",
+   "on_topic": true
+  },
+  {
+   "text": "The knowledge base has ten or fewer articles.",
+   "on_topic": true
+  }
+ ],
+ "4f22f50c7ebf531e3d2fbe8c15e5f7579979f2ee3acb091219f40fd566c6edad": true,
+ "69dc2ae826d17ceddc36220b5de365f32d22c821b40db34cc9a0504ce2abda6b": true,
+ "20aaf483772a69f034100eff72cedc8ff39252c0f85384b429cfb03693743e49": [
+  {
+   "text": "Boho is exactly what a ten-person agency needs.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho is easy to use.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho is cheap.",
+   "on_topic": true
+  },
+  {
+   "text": "Boho's client portal keeps clients informed.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer's team has been using Boho for a year.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer's team has no plans to switch from Boho.",
+   "on_topic": true
+  }
+ ],
+ "62c904d87a1d62c76eb383f1c575692c76d427a3c2142218da1ceccdbed96e07": false,
+ "5b40346fbf2aadd66c03f5d40b6c045186eeb81c887e895d8445e2d24f8e2950": false,
+ "8273aefbdddee7e8047c8a9732e033fe6854f476242936f189c0d23ea86afb80": true,
+ "61d0346026f5dd0e73ec885157dcc42404990d51ac72d9e945fa3c3c09cfd190": true,
+ "d03c80760e4c1350b2e347e815c42eadc64358334b9c12bd3e4bf420af0b7f0d": true,
+ "f58239482a6b9c3eb65ded129f53f33682db2558abf9bde76ffce371c78896a5": false,
+ "3447f7cef86b5a29ecffec11767600895f59cef7ab97bccb14fede77ee9c451e": [
+  {
+   "text": "The Boho logo is cute.",
+   "on_topic": true
+  }
+ ],
+ "28b1686fe48fd93709a2b864de4d9749701364654e5d2d7e2eb4c593de81272a": false,
+ "a16a139ad5c43fd674eb29d41cd7790ae9ac6b604a578dfad2b75cddc6471c1b": [
+  {
+   "text": "Micromanagement increased after using the product.",
+   "on_topic": true
+  },
+  {
+   "text": "The client keeps track of every story in the app.",
+   "on_topic": true
+  },
+  {
+   "text": "The client repeatedly asks the reviewer to add tasks to stories.",
+   "on_topic": true
+  },
+  {
+   "text": "Notifications arrive on the reviewer's phone.",
+   "on_topic": true
+  },
+  {
+   "text": "The reviewer wants to watch reels.",
+   "on_topic": false
+  }
+ ],
+ "51ac7e35c9b1e78493755d06997a511b8e1c534589340b381a8e4a778d0b13bc": false,
+ "e8b33ea48f7b8984e9e645d3b3effce8c62d0a133a1bf53162a0f9381ec8a613": false,
+ "f5f12399d356c77e9f9c47f3862d9eca771f7340f5444724263ac0f39ed37e90": false,
+ "e40f6c1496b4ac499e428a2878a76de0e4535dd558a0086291154276f770f1d0": false,
+ "a6800083a827914d90f3f3dcff15da02c62fa0d72e94e3613fccef6b99118005": true
+}
