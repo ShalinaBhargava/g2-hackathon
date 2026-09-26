@@ -62,33 +62,33 @@ def classify_claim(
 ) -> tuple[ClaimStatus, DecidedBy, KnownClaim | None, float]:
     """Decide whether one claim is new, known, or irrelevant.
 
-    candidates: the k closest known claims with their cosines, best first.
+    candidates: the k closest known claims with their cosines, nearest first.
 
     Order of checks:
       1. not on_topic                              -> irrelevant, "relevance"
       2. no candidates, or nearest cosine < known_low -> new, "cosine_low"
       3. nearest cosine >= known_high                 -> known, "cosine_high"
       4. borderline band: ask the judge about each candidate with cosine >= known_low,
-         best first; the first "same point" makes the claim known, "judge".
+         nearest first; the first "same point" makes the claim known, "judge".
          None agree                                -> new, "judge"
 
     Returns (status, decided_by, the known claim the judge matched or else the nearest one, its cosine).
     """
-    best, best_sim = candidates[0] if candidates else (None, 0.0)
+    nearest, nearest_sim = candidates[0] if candidates else (None, 0.0)
 
     if not on_topic:
-        return "irrelevant", "relevance", best, best_sim
-    if best is None or best_sim < settings.known_low:
-        return "new", "cosine_low", best, best_sim
-    if best_sim >= settings.known_high:
-        return "known", "cosine_high", best, best_sim
+        return "irrelevant", "relevance", nearest, nearest_sim
+    if nearest is None or nearest_sim < settings.known_low:
+        return "new", "cosine_low", nearest, nearest_sim
+    if nearest_sim >= settings.known_high:
+        return "known", "cosine_high", nearest, nearest_sim
 
     for known, sim in candidates:
         if sim < settings.known_low:
             break
         if judge.same_point(claim, known.text):
             return "known", "judge", known, sim
-    return "new", "judge", best, best_sim
+    return "new", "judge", nearest, nearest_sim
 
 
 def novelty(statuses: list[ClaimStatus]) -> float:

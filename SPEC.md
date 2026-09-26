@@ -126,7 +126,7 @@ never depends on the extractor. Only the *submission under test* goes through it
 |---|---|
 | `fixed_content.json` | the 97-word listing |
 | `corpus.json` | 50 synthetic reviews in submission order, each with `headline`, `body`, `recommend`, hand-authored `claims` (105 total), and documentation-only `themes` |
-| `golden.json` | 23 labeled submissions in 8 categories with expected score bands (21 agent-written, 2 author-written; one flagged `known_gap` and run as a strict expected failure) |
+| `golden.json` | 24 labeled submissions in 9 categories with expected score bands (21 agent-written, 3 added afterwards; two flagged `known_gap` and run as strict expected failures) |
 
 Corpus design: about ten themes recur (easy UI, client portal, time tracking,
 Slack, pricing, mobile app, support, Gantt, reporting, onboarding) so the pool has

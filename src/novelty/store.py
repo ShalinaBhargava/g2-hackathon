@@ -45,7 +45,7 @@ class KnownClaimStore:
         return len(self.claims)
 
     def candidates(self, claim_vectors: np.ndarray, k: int) -> list[list[Candidate]]:
-        """For each query vector, the k closest known claims with their cosines, best first.
+        """For each query vector, the k closest known claims with their cosines, nearest first.
 
         Empty list for a query when the pool is empty.
         """

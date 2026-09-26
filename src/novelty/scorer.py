@@ -114,12 +114,12 @@ class NoveltyScorer:
         text = sub.full_text
         if not text:
             return None, 0.0
-        best_id, best = None, 0.0
+        top_id, top = None, 0.0
         for rid, other in self.store.review_texts.items():
             j = jaccard(text, other)
-            if j > best:
-                best_id, best = rid, j
-        return best_id, best
+            if j > top:
+                top_id, top = rid, j
+        return top_id, top
 
 
 def build_default_scorer(settings: Settings | None = None, with_corpus: bool = True) -> NoveltyScorer:

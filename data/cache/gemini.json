@@ -2353,5 +2353,41 @@
  "e8b33ea48f7b8984e9e645d3b3effce8c62d0a133a1bf53162a0f9381ec8a613": false,
  "f5f12399d356c77e9f9c47f3862d9eca771f7340f5444724263ac0f39ed37e90": false,
  "e40f6c1496b4ac499e428a2878a76de0e4535dd558a0086291154276f770f1d0": false,
- "a6800083a827914d90f3f3dcff15da02c62fa0d72e94e3613fccef6b99118005": true
+ "a6800083a827914d90f3f3dcff15da02c62fa0d72e94e3613fccef6b99118005": true,
+ "945705bd98061305a55d616db8e0cbc3000ec13ecc75db540099b789be5f652d": [
+  {
+   "text": "The workload view shows over-allocation per person.",
+   "on_topic": true
+  }
+ ],
+ "e60c7a206ade61108786d8994a8e6c7ab96e307127b8e74f95ac471394cbedf8": [
+  {
+   "text": "The workload view flags who is over-allocated.",
+   "on_topic": true
+  },
+  {
+   "text": "The workload view shows over-allocation per person.",
+   "on_topic": true
+  }
+ ],
+ "3ccad9e4607baa8130e6b27cd7d12d2056aadd419d87b5062d16f10dd0777ff8": [
+  {
+   "text": "The workload view shows over-allocation per person.",
+   "on_topic": true
+  }
+ ],
+ "71d3c73c25b52a599dffe2a6b810fd26faedd518f445d680d2003507c2516787": [
+  {
+   "text": "The workload view shows over-allocation per person.",
+   "on_topic": true
+  }
+ ],
+ "36d2725caed733673ff2595f09156366d11b7a94f19ade221ebece0b809e17c3": [
+  {
+   "text": "Once a client approves an invoice, the time entries behind it are locked and cannot be edited.",
+   "on_topic": true
+  }
+ ],
+ "95b263f39982b1745a3970a50e7d2fb8eb3b6402ac1220240284f041f82ae8da": false,
+ "0a205aa61bbec0a52b8108cff5916e98a03930f23ba11edb2cd6f3674cf0fd89": false
 }

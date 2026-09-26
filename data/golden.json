@@ -26,6 +26,9 @@
     },
     "trivial": {
       "final_max": 0.0
+    },
+    "self_repeat": {
+      "final_max": 0.5
     }
   },
   "items": [
@@ -215,6 +218,15 @@
       "body": "what say",
       "note": "Author-written. Content-free aesthetic praise plus a body with no claim. Requirement: earns nothing. Known gap: the extractor treats 'the logo is cute' as an on-topic claim and the single new claim scores 0.5 (substance cap). Kept as an expected failure rather than relabelled.",
       "known_gap": true
+    },
+    {
+      "id": "g25",
+      "category": "self_repeat",
+      "known_gap": true,
+      "headline": "Workload view flags who is over-allocated",
+      "recommend": "yes",
+      "body": "The workload view shows over-allocation per person.",
+      "note": "One novel on-topic fact stated twice, paraphrased across headline and body. Requirement: same score as stating it once (0.5, the substance cap for one new claim). Known gap: claims of one submission are never compared with each other, so both count as new and the score doubles to 1.0. The extractor merges some paraphrases on its own (an invoice-locking pair scored 0.5) but not this one. Not in the problem statement; recorded rather than fixed."
     }
   ]
 }

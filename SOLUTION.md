@@ -116,7 +116,7 @@ Criteria were written into SPEC.md before the first run.
 
 | # | Criterion | Result |
 |---|---|---|
-| 1 | Every golden item lands in its category's band | **22/23** (run 06): the 21 agent-written items (21/21 in run 04; runs 01-03: 12, 18, 16) plus both author-written items, one of which is a known gap kept as an expected failure (section 8) |
+| 1 | Every golden item lands in its category's band | **22/24**: the 21 agent-written items (21/21 in run 04; runs 01-03: 12, 18, 16) plus three items added afterwards, two of which are known gaps kept as expected failures (section 8) |
 | 2 | min(novel_relevant) > max(rehash, restatement, duplicate) | 1.000 > 0.125 |
 | 3 | max(novel_irrelevant) < min(novel_relevant) | 0.000 < 1.000 |
 | 4 | Every padded item <= its unpadded twin | 0.000 <= 0.000, both pairs |
@@ -135,6 +135,7 @@ Golden categories (`data/golden.json`):
 | novel_irrelevant | 4 | <= 0.1 | **high novelty, low relevance is not rewarded** |
 | padded_irrelevant | 2 | <= 0.25 and <= twin | padding cannot help |
 | trivial | 3 | 0.0 | nothing to extract (one item is a known gap, see section 8) |
+| self_repeat | 1 | <= 0.5 | restating one point twice earns no more than once (known gap, see section 8) |
 
 Final scores, run 04: duplicates 0.000; rehashes 0.000, 0.125, 0.000, 0.000;
 restatement 0.000; novel relevant 1.000 x4; mixed 0.400, 0.600; novel irrelevant
@@ -175,7 +176,7 @@ fresh air" 0.167 after nine earlier reviews praised the interface.
 
 ## 6. Automated tests
 
-`python -m pytest`: 49 tests, 48 pass and 1 is an expected failure (g24, section 8).
+`python -m pytest`: 50 tests, 48 pass and 2 are expected failures (g24 and g25, section 8).
 
 - `test_text.py`: tokenisation, Jaccard, sentence splitting, product-name neutralisation.
 - `test_scoring.py`: unit contract for every pure scoring function, with a fake judge; proves the judge is consulted only in the borderline band and only on candidates above LOW.
@@ -191,7 +192,7 @@ new calls on a clean checkout.
 ```
 python -m pip install -e ".[dev]"
 cp .env.example .env            # add GEMINI_API_KEY
-python -m novelty.cli golden -v   # 23 golden items with breakdowns
+python -m novelty.cli golden -v   # 24 golden items with breakdowns
 python -m novelty.cli replay      # corpus in submission order
 python -m pytest
 ```
@@ -201,6 +202,14 @@ python -m pytest
 - **A single aesthetic remark can earn up to 0.5.** "The logo is cute" is extracted
   as an on-topic claim; nothing in the pool mentions the logo; the substance term
   caps it at 0.5 rather than 0. Kept as a strict expected failure (g24).
+- **A point restated across headline and body counts twice.** Claims of one
+  submission are compared with the pool, never with each other, so a headline that
+  paraphrases the body yields two new claims and the substance term rises from 0.5
+  to 1.0. Exact repetition is absorbed by the extractor, and so are some paraphrases,
+  but not all: the workload pair in g25 doubles. Not in
+  the problem statement, so recorded as a strict expected failure (g25) rather than
+  fixed. The fix is a within-submission repeat check using the same cosine bands
+  and judge as step 4.
 - **Extraction is not perfectly stable across near-identical inputs.** A text and
   its padded twin can yield slightly different claim sets, so pair comparisons carry
   some noise. Both pairs currently score 0.000 vs 0.000; a tolerance may be needed

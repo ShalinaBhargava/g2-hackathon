@@ -16,7 +16,7 @@ How the coding agent was used: [WORKLOG.md](WORKLOG.md).
 data/
   fixed_content.json   the 97-word Boho listing (the fixed content) and the product name
   corpus.json          50 synthetic reviews in submission order, with hand-authored claims
-  golden.json          23 labeled submissions with expected score bands (one flagged known_gap)
+  golden.json          24 labeled submissions with expected score bands (two flagged known_gap)
   cache/gemini.json    every Gemini response, committed, so results replay with no new calls
 runs/                  one file per calibration run: config, table, diagnosis
 src/novelty/
@@ -62,13 +62,13 @@ golden set, the replay and the test suite make no new calls on a clean checkout.
 python -m novelty.cli score --headline "Workload view is great" \
     --body "The workload view shows over-allocation per person." --recommend yes
 
-# score every golden item and check its band (22/23 in band, 1 known gap)
+# score every golden item and check its band (22/24 in band, 2 known gaps)
 python -m novelty.cli golden -v
 
 # replay the corpus in submission order, each review against its predecessors
 python -m novelty.cli replay
 
-# tests: 49, of which 1 is a strict expected failure (the known gap)
+# tests: 50, of which 2 are strict expected failures (the known gaps)
 python -m pytest
 
 # lint and format
@@ -97,7 +97,7 @@ its source review. `ScoreBreakdown.explain()` prints it.
 
 ## Results
 
-| Golden set | 22/23 in band, 1 known gap (run 06) |
+| Golden set | 22/24 in band, 2 known gaps |
 |---|---|
 | Ordering | novel relevant min 1.000 > non-novel max 0.125; novel irrelevant max 0.000 |
 | Padded pairs | both 0.000 <= their unpadded twins |
