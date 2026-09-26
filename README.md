@@ -46,9 +46,7 @@ Python 3.11+ (developed on 3.13 and 3.14).
 python -m pip install -e ".[dev]"
 ```
 
-The first run downloads the MiniLM embedding model (~90 MB) once. On WSL, use
-a virtualenv on the Linux filesystem and CPU-only torch:
-`pip install torch --index-url https://download.pytorch.org/whl/cpu`.
+The first run downloads the MiniLM embedding model (~90 MB) once.
 
 Gemini is required for claim extraction, the on-topic verdict and the borderline
 "same point?" judge. Copy `.env.example` to `.env` and set `GEMINI_API_KEY`.
